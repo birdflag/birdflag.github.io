@@ -1,6 +1,6 @@
 basic_settings:
-  site_title: Artist | Designer | Historian
-  site_tagline: birdflag.com | Hannah Fogarty's Portfolio
+  site_title: BirdFlag
+  site_tagline: Hannah's Portfolio | Artist | Designer | Historian
   favicon_image: /images/favicon.png
 
 header_settings:
