@@ -60,7 +60,7 @@ color_settings:
   text_dark_color: '#2A2F36'
   text_medium_color: '#92D4CD'
   text_light_color: '#ABB7B7'
-  accent_color: '#db6a00'
+  accent_color: '#eb3e05'
   border_color: '#dddddd'
   overlay_background_color: '#92D4CD'
   overlay_text_color: '#ffffff'
@@ -69,7 +69,7 @@ color_settings:
 
 font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css?family=Montserrat:300,500" rel="stylesheet">'
-  title_font: '"Montserrat", sans-serif'
+  title_font: '"Fira Sans", book'
   body_font: '"Montserrat", sans-serif'
   regular_weight: 300
   bold_weight: 500
