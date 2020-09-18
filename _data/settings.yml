@@ -80,12 +80,12 @@ font_settings:
     weight: 500
     letter_spacing: -0.02
   site_tagline:
-    small_size: 20
-    medium_size: 22
-    large_size: 24
+    small_size: 26
+    medium_size: 28
+    large_size: 30
     weight: 400
-    letter_spacing: 0
-    line_height: 1.5
+    letter_spacing: 4
+    line_height: 0.5
   menu:
     small_size: 30
     medium_size: 15
