@@ -1,5 +1,5 @@
 ---
-title: '2021 Tour'
+title: 'Publicity'
 date: 2020-09-17 00:00:00
 description: Publicity for imagined concert tour.
 featured_image: '/images/sudan_archives_1.PNG'

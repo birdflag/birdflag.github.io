@@ -1,6 +1,6 @@
 basic_settings:
   site_title: birdflag
-  site_tagline: Hannah's Portfolio | Artist | Designer | Historian
+  site_tagline: Hannah Fogarty Design
   favicon_image: /images/favicon.ico
 
 header_settings:
@@ -57,14 +57,14 @@ social_settings:
 color_settings:
   background_color: '#ffffff'
   background_alt_color: '#F5F7FA'
-  text_dark_color: '#2A2F36'
+  text_dark_color: '#b4c400'
   text_medium_color: '#6C7A89'
   text_light_color: '#ABB7B7'
   accent_color: '#0C5DF2'
   border_color: '#dddddd'
   overlay_background_color: '#0C5DF2'
   overlay_text_color: '#ffffff'
-  overlay_accent_color: '#2A2F36'
+  overlay_accent_color: '#b4c400'
   error_color: '#D64541'
 
 font_settings:
