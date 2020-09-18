@@ -1,18 +1,16 @@
 basic_settings:
-  site_title: BirdFlag
+  site_title: birdflag
   site_tagline: Hannah's Portfolio | Artist | Designer | Historian
   favicon_image: /images/favicon.ico
 
 header_settings:
-  logo_image: 
+  logo_image: /images/favicon.png
   logo_width: 200
 
 menu_settings:
   menu_items:
     - title: 'Projects'
       url: '/'
-    - title: 'Blog'
-      url: '/blog/'
     - title: 'About'
       url: '/about'
     - title: 'Contact'
@@ -46,7 +44,7 @@ social_settings:
   dribbble_url: ''
   behance_url: ''
   deviantart_url: ''
-  github_url: ''
+  github_url: 'www.github.com/birdflag'
   reddit_url: ''
   flickr_url: ''
   etsy_url: ''
