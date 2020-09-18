@@ -63,7 +63,7 @@ color_settings:
   accent_color: '#0C5DF2'
   border_color: '#dddddd'
   overlay_background_color: '#0C5DF2'
-  overlay_text_color: '#b4c400'
+  overlay_text_color: '#ffffff'
   overlay_accent_color: '#2A2F36'
   error_color: '#D64541'
 
@@ -80,10 +80,10 @@ font_settings:
     weight: 500
     letter_spacing: -0.02
   site_tagline:
-    small_size: 16
-    medium_size: 18
-    large_size: 20
-    weight: 300
+    small_size: 20
+    medium_size: 22
+    large_size: 24
+    weight: 400
     letter_spacing: 0
     line_height: 1.5
   menu:
