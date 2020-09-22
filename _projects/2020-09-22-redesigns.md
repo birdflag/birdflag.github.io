@@ -2,7 +2,7 @@
 title: 'Logos'
 date: 2020-09-17 00:00:00
 description: Brand identities for fictional brands and redesigns for brands I love.
-featured_image: '/images/shenandoah_tshirt.PNG'
+featured_image: '/images/shenandoah_tshirt.png'
 ---
 
 
@@ -15,7 +15,7 @@ featured_image: '/images/shenandoah_tshirt.PNG'
 Here's a really neat custom feature we added – galleries:
 
 <div class="gallery" data-columns="3">
-	<img src="/images/shenandoah_joe_stamp_bag.PNG">
+	<img src="/images/shenandoah_joe_stamp_bag.png">
 	<img src="/images/demo/demo-landscape.jpg">
 	<img src="/images/demo/demo-square.jpg">
 	<img src="/images/demo/demo-landscape-2.jpg">
