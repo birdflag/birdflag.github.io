@@ -69,7 +69,7 @@ color_settings:
 
 font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css?family=Montserrat:300,500" rel="stylesheet">'
-  title_font: '"Fira Sans", book'
+  title_font: '"Bebas Neue"'
   body_font: '"Montserrat", sans-serif'
   regular_weight: 300
   bold_weight: 500
