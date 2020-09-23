@@ -2,7 +2,7 @@
 title: 'Museum Design'
 date: 2020-09-17 00:00:00
 description: Museum exhibition designs and redesigns.
-featured_image: '/images/onewitheternity.PNG'
+featured_image: '/images/vertical_banner_red_simple.png'
 ---
 
 
@@ -15,7 +15,7 @@ featured_image: '/images/onewitheternity.PNG'
 Here's a really neat custom feature we added – galleries:
 
 <div class="gallery" data-columns="3">
-	<img src="/images/sudan_archives_2.PNG">
+	<img src="/images/onewitheternity.PNG">
 	<img src="/images/demo/demo-landscape.jpg">
 	<img src="/images/demo/demo-square.jpg">
 	<img src="/images/demo/demo-landscape-2.jpg">
