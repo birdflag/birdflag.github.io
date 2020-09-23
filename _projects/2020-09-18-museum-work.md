@@ -2,11 +2,11 @@
 title: 'Museum Design'
 date: 2020-09-17 00:00:00
 description: Museum exhibition designs and redesigns.
-featured_image: '/images/vertical_banner_red_simple.png'
+featured_image: '/images/Kusama_title_wall.png'
 ---
 
 
-### Patterns, repeats, textiles. It never stops.
+### Speculative designs for museums.
 
 ---
 

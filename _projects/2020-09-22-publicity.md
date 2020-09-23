@@ -1,12 +1,12 @@
 ---
 title: 'Publicity'
 date: 2020-09-17 00:00:00
-description: Publicity for imagined concert tour.
+description: Publicity for imagined concert tour, etc.
 featured_image: '/images/sudan_archives_1.PNG'
 ---
 
 
-### Manifesting a world where my favorite artist can go on tour in 2021
+### Publicity for fictional events.
 
 ---
 
@@ -16,7 +16,7 @@ Here's a really neat custom feature we added – galleries:
 
 <div class="gallery" data-columns="3">
 	<img src="/images/sudan_archives_2.PNG">
-	<img src="/images/demo/demo-landscape.jpg">
+	<img src="/images/Wedgwood_poster_design.png">
 	<img src="/images/demo/demo-square.jpg">
 	<img src="/images/demo/demo-landscape-2.jpg">
 </div>
