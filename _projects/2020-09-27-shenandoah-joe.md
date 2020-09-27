@@ -1,12 +1,12 @@
 ---
-title: 'Branding'
+title: 'Shenandoah Joe Rebranding'
 date: 2020-09-22 00:00:00
 description: Branding for fictional clients.
 featured_image: '/images/shenandoah_tshirt.png'
 ---
 
 
-# Speculative redesign of a brand I love - and patronize daily.
+### Speculative redesign of a brand I love - and patronize daily.
 
 ---
 
