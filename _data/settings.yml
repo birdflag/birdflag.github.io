@@ -68,7 +68,7 @@ color_settings:
   error_color: '#D64541'
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css?family=Montserrat:300,500" rel="stylesheet">'
+  font_embed: '<link href="https://fonts.googleapis.com/css?family=FiraSans300,500" rel="stylesheet">'
   title_font: '"Fira Sans", light'
   body_font: '"Fira Sans", book'
   regular_weight: 300
