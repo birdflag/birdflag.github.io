@@ -17,7 +17,7 @@ Here's a really neat custom feature we added – galleries:
 <div class="gallery" data-columns="3">
 	<img src="/images/sudan_archives_2.PNG">
 	<img src="/images/Wedgwood_poster_design.png">
-	<img src="/images/demo/demo-square.jpg">
+	<img src="/images/alumni_design_show.PNG">
 	<img src="/images/demo/demo-landscape-2.jpg">
 </div>
 
