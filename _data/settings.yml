@@ -5,7 +5,7 @@ basic_settings:
 
 header_settings:
   logo_image: /images/birdflag_bird_logo.PNG
-  logo_width: 160
+  logo_width: 150
 
 menu_settings:
   menu_items:
@@ -69,8 +69,8 @@ color_settings:
 
 font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css?family=Montserrat:300,500" rel="stylesheet">'
-  title_font: '"Bebas Neue"'
-  body_font: '"Montserrat", sans-serif'
+  title_font: '"Fira Sans", light'
+  body_font: '"Fira Sans", book'
   regular_weight: 300
   bold_weight: 500
   site_title:
