@@ -2,11 +2,11 @@
 title: 'Branding'
 date: 2020-09-22 00:00:00
 description: Branding for fictional clients.
-featured_image: '/images/demo/cerise_logo_package2.png'
+featured_image: '/images/shenandoah_tshirt.png'
 ---
 
 
-# Brand identities for fictional brands and speculative redesigns for brands I love.
+# Speculative redesign of a brand I love - and patronize daily.
 
 ---
 
