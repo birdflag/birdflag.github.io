@@ -1,10 +1,10 @@
 basic_settings:
   site_title: birdflag
-  site_tagline: Hannah Fogarty Design
+  site_tagline:
   favicon_image: /images/favicon.ico
 
 header_settings:
-  logo_image: /images/birdflag_bird_logo.PNG
+  logo_image: /images/hannah_fogarty_design.PNG
   logo_width: 150
 
 menu_settings:
