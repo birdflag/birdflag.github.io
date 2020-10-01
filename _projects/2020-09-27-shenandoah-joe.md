@@ -1,31 +1,22 @@
 ---
-title: 'Shenandoah Joe Rebranding'
+title: 'Shenandoah Joe Brand Redesign'
 date: 2020-09-22 00:00:00
 description: Branding for fictional clients.
 featured_image: '/images/shenandoah_tshirt.png'
 ---
 
 
-### Speculative redesign of a brand I love - and patronize daily.
+### Speculative redesign of a brand I love and use daily, Charlottesville's own Shenandoah Joe Coffee Roasters.
 
 ---
 
-### Image galleries
+### The Project
 
-Here's a really neat custom feature we added – galleries:
+My redesign keeps the original colors and sporty varsity font (this is in University territory, after all) while incorporating the peaks of the Shenandoah mountains. This brand's name, and its Virginia location surrounded by beautiful blue hills, makes this redesign mesh smoothly with its identity.
 
 <div class="gallery" data-columns="3">
 	<img src="/images/shenandoah_joe_stamp_bag.png">
 	<img src="/images/shenandoah_tshirt.png">
 	<img src="/images/shenandoah_coffee_pouch.png">
-	<img src="/images/demo/logo comparison_shen.png">
+	<img src="/images/logo_comparison_shen.png">
 </div>
-
-Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a bit of simple HTML in your post to create a masonry grid image layout:
-
-
-*See what we did there? Code and syntax highlighting is built-in too!*
-
-Change the number inside the 'columns' setting to create different types of gallery for all kinds of purposes. You can even click on each image to seamlessly enlarge it on the page.
-
----
