@@ -6,7 +6,7 @@ featured_image: '/images/shenandoah_tshirt.png'
 ---
 
 
-### Speculative redesign of a brand I love and use daily, Charlottesville's own Shenandoah Joe Coffee Roasters.
+#### <i> Speculative redesign of a brand I love and use daily, Charlottesville's own Shenandoah Joe Coffee Roasters. </i>
 
 ---
 
