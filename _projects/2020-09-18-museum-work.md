@@ -2,7 +2,7 @@
 title: 'Museum Design'
 date: 2020-09-17 00:00:00
 description: Museum exhibition designs and redesigns.
-featured_image: '/images/firefly_poster_mockup.png'
+featured_image: '/images/Firefly_poster_mockup.png'
 ---
 
 
