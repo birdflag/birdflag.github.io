@@ -93,6 +93,7 @@ font_settings:
     large_size: 16
     weight: 500
     letter_spacing: 0
+    line_height:1.5
   grid_item_title:
     small_size: 22
     medium_size: 26
