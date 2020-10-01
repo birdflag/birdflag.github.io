@@ -9,7 +9,6 @@ header_settings:
 
 menu_settings:
   menu_items:
-    <br> 
     - title: 'Projects'
       url: '/'
     - title: 'About'
