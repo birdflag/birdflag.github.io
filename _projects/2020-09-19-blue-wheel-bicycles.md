@@ -1,8 +1,8 @@
 ---
-title: 'Patterns'
+title: 'Blue Wheel Bicycle Speculative Brand Redesign'
 date: 2020-09-17 00:00:00
-description: Original pattern work.
-featured_image: '/images/bwb_mockup.PNG'
+description: BWB logo update.
+featured_image: '/images/bwb_mockup.png'
 ---
 
 
@@ -15,7 +15,7 @@ featured_image: '/images/bwb_mockup.PNG'
 Here's a really neat custom feature we added – galleries:
 
 <div class="gallery" data-columns="3">
-	<img src="/images/Blue_wheel_logo.PNG">
+	<img src="/images/Blue_wheel_logo.png">
 	<img src="/images/demo/demo-landscape.jpg">
 	<img src="/images/demo/demo-square.jpg">
 	<img src="/images/demo/demo-landscape-2.jpg">
