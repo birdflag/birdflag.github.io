@@ -1,5 +1,5 @@
 ---
-title: 'Blue Wheel Bicycle Speculative Brand Redesign'
+title: 'Blue Wheel Bicycles'
 date: 2020-09-17 00:00:00
 description: BWB logo update.
 featured_image: '/images/bwb_mockup.png'
@@ -12,7 +12,7 @@ featured_image: '/images/bwb_mockup.png'
 
 ### Image galleries
 
-Here's a really neat custom feature we added – galleries:
+This design maintains the shop's clean brand identity, it's use of blue &#40;duh&#41;, while creating sleeker forms and a more legible name. I chose a font that conveys forward motion without being too tech-y or pretentious. 
 
 <div class="gallery" data-columns="3">
 	<img src="/images/Blue_wheel_logo.png">
