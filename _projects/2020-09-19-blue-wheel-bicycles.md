@@ -12,12 +12,12 @@ featured_image: '/images/bwb_mockup.png'
 
 ### Image galleries
 
-This design maintains the shop's clean brand identity, it's use of blue &#40;duh&#41;, while creating sleeker forms and a more legible name. I chose a font that conveys forward motion without being too tech-y or pretentious. 
+This design maintains the shop's clean brand identity, it's use of blue &#40;duh&#41;, while creating sleeker forms and a more legible name. I chose a font that conveys forward motion without being too tech-y or too pretentious.
 
 <div class="gallery" data-columns="3">
 	<img src="/images/Blue_wheel_logo.png">
 	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-square.jpg">
+	<img src="/images/bwb_comparison.PNG">
 	<img src="/images/demo/demo-landscape-2.jpg">
 </div>
 
