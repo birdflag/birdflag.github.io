@@ -17,7 +17,7 @@ This design maintains the shop's clean brand identity, it's use of blue &#40;duh
 <div class="gallery" data-columns="3">
 	<img src="/images/Blue_wheel_logo.png">
 	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/bwb_comparison.PNG">
+	<img src="/images/bwb_comparison.png">
 	<img src="/images/demo/demo-landscape-2.jpg">
 </div>
 
