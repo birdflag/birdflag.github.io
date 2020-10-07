@@ -5,6 +5,9 @@ description: Branding for fictional clients.
 featured_image: '/images/shenandoah_tshirt.png'
 ---
 #### <i> Speculative redesign of a brand I love and use daily 	&#40;Brazil Primavera, anyone?&#41;, Charlottesville's Shenandoah Joe Coffee Roasters. </i>
+---
+
+### The Project
 
 My redesign keeps the original colors and sporty varsity font of the existing logo (this is in University territory, after all) while incorporating the peaks of the Shenandoah mountains. This brand's name, and its mountain location, make a visual nod to Virginia's beautiful blue hills appropriate.
 
