@@ -18,7 +18,7 @@ Here's a really neat custom feature we added – galleries:
 	<img src="/images/sudan_archives_2.PNG">
 	<img src="/images/Wedgwood_poster_design.png">
 	<img src="/images/alumni_design_show.PNG">
-	<img src="/images/demo/couch_poster.png">
+	<img src="/images/demo/couch_poster.PNG">
 </div>
 
 Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a bit of simple HTML in your post to create a masonry grid image layout:
