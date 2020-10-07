@@ -20,10 +20,3 @@ This design maintains the shop's clean brand identity, it's use of blue &#40;duh
 	<img src="/images/bwb_comparison.png">
 	<img src="/images/demo/demo-landscape-2.jpg">
 </div>
-
-Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a bit of simple HTML in your post to create a masonry grid image layout:
-
-
-Change the number inside the 'columns' setting to create different types of gallery for all kinds of purposes. You can even click on each image to seamlessly enlarge it on the page.
-
----
