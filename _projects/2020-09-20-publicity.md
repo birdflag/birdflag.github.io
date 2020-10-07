@@ -18,5 +18,5 @@ Here's a really neat custom feature we added – galleries:
 	<img src="/images/sudan_archives_2.PNG">
 	<img src="/images/Wedgwood_poster_design.png">
 	<img src="/images/alumni_design_show.PNG">
-	<img src="/images/demo/couch_poster.PNG">
+	<img src="/images/demo/couch_poster.png">
 </div>
