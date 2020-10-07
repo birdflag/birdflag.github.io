@@ -6,11 +6,11 @@ featured_image: '/images/sudan_archives_1.PNG'
 ---
 
 
-### Publicity for fictional events.
+#### <i> Publicity for fictional events. Dreaming of a world where it's safe to hold concerts, meetings, art shows, and parties again. </i>
 
 ---
 
-### Image galleries
+### The Project
 
 Here's a really neat custom feature we added – galleries:
 
