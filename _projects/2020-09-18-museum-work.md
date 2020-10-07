@@ -12,7 +12,6 @@ featured_image: '/images/Firefly_poster_mockup.png'
 
 ### Image galleries
 
-Here's a really neat custom feature we added – galleries:
 
 <div class="gallery" data-columns="3">
 	<img src="/images/onewitheternity.PNG">

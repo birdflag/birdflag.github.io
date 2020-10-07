@@ -8,10 +8,6 @@ featured_image: '/images/bwb_mockup.png'
 
 ### Speculative redesign of our local bikeshop brand identity.
 
----
-
-### Image galleries
-
 This design maintains the shop's clean brand identity, it's use of blue &#40;duh&#41;, while creating sleeker forms and a more legible name. I chose a font that conveys forward motion without being too tech-y or too pretentious.
 
 <div class="gallery" data-columns="3">
