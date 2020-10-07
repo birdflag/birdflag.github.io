@@ -15,7 +15,7 @@ featured_image: '/images/couch_poster.png'
 Here's a really neat custom feature we added – galleries:
 
 <div class="gallery" data-columns="3">
-	<img src="/images/sudan_archives_1.PNG
+	<img src="/images/sudan_archives_1.PNG">
 	<img src= "/images/sudan_archives_2.PNG">
 	<img src="/images/Wedgwood_poster_design.png">
 	<img src="/images/alumni_design_show.PNG">
