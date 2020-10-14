@@ -11,9 +11,20 @@
 			{{ site.data.settings.basic_settings.site_title }}
 		</a>
 		{% endif %}
+		
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		
 
 		<h1 class="header__tagline">{{ site.data.settings.basic_settings.site_tagline }}</h1>
 
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		
 		<div class="menu">
 			<div class="menu__toggle js-menu-toggle">
 				<div class="menu__toggle__icon"><span></span></div>
@@ -29,16 +40,7 @@
 			</div>
 		</div>
 
-		<div class="projects-menu">
-			<ul class="menu__list">
-				{% for project in site.projects reversed %}
-				<li class="menu__list__item">
-					<a href="{{ project.url | relative_url }}" class="menu__list__item__link">{{ project.title }}</a>
-				</li>
-				{% endfor %}
-			</ul>
-		</div>
-
+		
 		<div class="header__lower">
 
 			{% include socials.html %}
