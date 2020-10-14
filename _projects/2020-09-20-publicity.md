@@ -6,18 +6,19 @@ featured_image: '/images/couch_poster.png'
 ---
 
 
-#### <i> Publicity for fictional events. Dreaming of a world where it's safe to hold concerts, meetings, art shows, and parties again. </i>
+#### <i> Publicity for fictional events. See you at Ipsum Lorem 2021. </i>
 
 ---
 
 ### The Project
 
-Here's a really neat custom feature we added – galleries:
+These designs utilize photography, typography, pattern, drawing, and collage to get their message across. 
 
-<div class="gallery" data-columns="3">
+<div class="gallery" data-columns="1">
+	<img src="/images/couch_poster.png">
 	<img src="/images/sudan_archives_1.PNG">
 	<img src= "/images/sudan_archives_2.PNG">
 	<img src="/images/Wedgwood_poster_design.png">
 	<img src="/images/alumni_design_show.PNG">
-	<img src="/images/couch_poster.png">
+
 </div>
