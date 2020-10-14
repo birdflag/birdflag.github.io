@@ -12,9 +12,9 @@ featured_image: '/images/couch_poster.png'
 
 ### The Project
 
-These designs utilize photography, typography, pattern, drawing, and collage to get their message across. 
+These designs utilize photography, typography, pattern, drawing, and collage to get their message across.
 
-<div class="gallery" data-columns="1">
+<div class="gallery" data-columns="4">
 	<img src="/images/couch_poster.png">
 	<img src="/images/sudan_archives_1.PNG">
 	<img src= "/images/sudan_archives_2.PNG">
