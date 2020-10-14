@@ -69,8 +69,8 @@ color_settings:
 
 font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css?family=Ebrima:300,500" rel="stylesheet">'
-  title_font: '"Ebrima" "Regular"'
-  body_font: '"Ebrima" "Regular"'
+  title_font: '"Ebrima"'
+  body_font: '"Ebrima"'
   regular_weight: 300
   bold_weight: 500
   site_title:
