@@ -4,7 +4,7 @@ date: 2020-09-17 00:00:00
 description: BWB logo update.
 featured_image: '/images/bwb_mockup.png'
 ---
-#### <i> Speculative brand redesign for our local bike shop, a local institution with 40 years under its belt. </i>
+#### <i> Speculative brand redesign for our local bike shop, an institution with 40 years under its belt. </i>
 ---
 
 ### The Project
