@@ -6,7 +6,7 @@ featured_image: '/images/couch_poster.png'
 ---
 
 
-#### <i> Publicity for fictional events. See you at Ipsum Lorem 2021. </i>
+#### <i> Publicity for fictional events and travels. See you at Ipsum Lorem 2021. </i>
 
 ---
 
