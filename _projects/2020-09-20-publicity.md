@@ -20,6 +20,6 @@ These designs utilize photography, typography, pattern, drawing, and collage to 
 	<img src= "/images/sudan_archives_2.PNG">
 	<img src="/images/Wedgwood_poster_design.png">
 	<img src="/images/alumni_design_show.PNG">
-	<img src="/images/Lapland_mockup.png"
+	<img src="/images/Lapland_mockup.png">
 
 </div>
