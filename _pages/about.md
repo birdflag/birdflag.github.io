@@ -8,7 +8,7 @@ description: About the designer
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
-![](/images/IMG_2460.jpg)
+![](/images/IMG_2460.JPG)
 
 ## Features
 
@@ -21,7 +21,7 @@ Index is packed with powerful features to showcase your work:
 * Social media icons
 ** Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
 * Works with GitHub Pages
-* 
+*
 ## Get Index
 
 Index is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
