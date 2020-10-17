@@ -4,7 +4,6 @@ subtitle:
 description: About the designer
 featured_image: /images/demo/demo-landscape.jpg
 ---
-##About Me
 
 Hello! My name is Hannah Fogarty. I'm a Charlottesville-based museum professional and curriculum designer breaking into the design world. My love of all things visual is the constant thread in my life.
 [br/]
