@@ -7,6 +7,5 @@ featured_image: /images/demo/demo-landscape.jpg
 
 #Let's Talk
 
-I'm available to help you make your creative vision come to life. Email me at hfogartydesign@gmail.com to talk about ideas.
+I'm available to help you make your creative vision come to life. Email me at hfogartydesign@gmail.com to talk ideas.
 
-{% //formspree.io/f/xbjpgnkz %}%}
