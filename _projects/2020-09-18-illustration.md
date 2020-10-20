@@ -12,7 +12,7 @@ featured_image: '/images/parakeet_illustration-01.png'
 
 <div class="gallery" data-columns="3">
 	<img src="/images/handsupfrog.PNG">
-	<img src="/images/demo/demo-landscape.jpg">
+	<img src="/images/parakeet_illustration-01.png">
 	<img src="/images/demo/demo-square.jpg">
 	<img src="/images/demo/demo-landscape-2.jpg">
 </div>
