@@ -6,11 +6,7 @@ featured_image: '/images/Firefly_poster_mockup.png'
 ---
 
 
-### Speculative designs for museum shows for some of my favorite institutions and artists.
-
----
-
-### Image galleries
+### Speculative designs for museum shows for some of my favorite institutions and artists. More about my background/experience.
 
 
 <div class="gallery" data-columns="3">
