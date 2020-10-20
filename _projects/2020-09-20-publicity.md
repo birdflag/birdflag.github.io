@@ -6,13 +6,13 @@ featured_image: '/images/couch_poster.png'
 ---
 
 
-#### <i> Publicity for fictional events and travels. See you at Ipsum Lorem 2021. </i>
+#### <i> Publicity for fictional events and travels. See you at Lorem Ipsum 2021. </i>
 
 ---
 
 ### The Project
 
-These designs utilize photography, typography, pattern, drawing, and collage to get their message across.
+These designs utilize photography, typography, pattern, drawing, and collage to get the message across in visually engaging ways.
 
 <div class="gallery" data-columns="4">
 	<img src="/images/couch_poster.png">
