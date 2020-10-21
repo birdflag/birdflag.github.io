@@ -6,7 +6,7 @@ featured_image: '/images/Firefly_poster_mockup.png'
 ---
 
 
-### Speculative designs for museum shows for some of my favorite institutions and artists. More about my background/experience.
+### Speculative designs for museum shows for some of my favorite institutions and artists. My design background is rooted in the museum setting, where I've created  digital and print publicity for events, exhibition layouts and features, and website elements, all within institutional brand identities.  
 
 
 <div class="gallery" data-columns="3">
