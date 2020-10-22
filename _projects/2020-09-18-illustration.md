@@ -13,5 +13,5 @@ featured_image: '/images/parakeet_illustration-01.png'
 <div class="gallery" data-columns="3">
 	<img src="/images/handsupfrog.PNG">
 	<img src="/images/parakeet_illustration-01.png">
-	<img src="/images/idio_icons.png"
+	<img src="/images/idio_icons.png">
 </div>
