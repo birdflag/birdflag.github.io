@@ -14,4 +14,5 @@ featured_image: '/images/parakeet_illustration-01.png'
 	<img src="/images/handsupfrog.PNG">
 	<img src="/images/parakeet_illustration-01.png">
 	<img src="/images/idio_icons.png">
+	<school_children-02.png">
 </div>
