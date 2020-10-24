@@ -10,7 +10,7 @@ featured_image: '/images/demo/demo-square.jpeg'
 
 
 <div class="gallery" data-columns="3">
-	<>
+	<img src="/images/sentien-01.png">
 	<>
 	<img src="/images/grasz_autobody-01-01-01.png">
 </div>
