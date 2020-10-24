@@ -2,7 +2,7 @@
 title: 'Logo Creation'
 date: 2020-09-17 00:00:00
 description: Logos for imagined companies.
-featured_image: '/images/demo/demo-square.jpeg'
+featured_image: '/images/sentien_business_card_mockup.png'
 ---
 
 
