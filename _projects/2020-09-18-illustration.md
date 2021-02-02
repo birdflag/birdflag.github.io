@@ -15,4 +15,5 @@ featured_image: '/images/parakeet_illustration-01.png'
 	<img src="/images/parakeet_illustration-01.png">
 	<img src="/images/idio_icons.png">
 	<img src="/images/school_children-02.png">
+	<img src="/images/allergic_strawbee.png">
 </div>
