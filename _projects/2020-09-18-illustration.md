@@ -6,7 +6,7 @@ featured_image: '/images/parakeet_illustration-01.png'
 ---
 
 
-### Illustrations from the recesses of my mind, filtered through Adobe suite.
+### Illustrations and icons, from me to you filtered through Adobe.
 
 ---
 
