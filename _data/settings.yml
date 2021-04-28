@@ -1,7 +1,7 @@
 basic_settings:
   site_title: birdflag
   site_tagline:
-  favicon_image: /images/favicon.ico
+  favicon_image: /images/favicon.ico.png
 
 header_settings:
   logo_image: /images/birdflag_logo2.1-03.png
