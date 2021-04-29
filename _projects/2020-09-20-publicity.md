@@ -2,7 +2,7 @@
 title: 'Publicity'
 date: 2020-09-17 00:00:00
 description: Publicity for imagined concert tour, etc.
-featured_image: '/images/couch_poster.png'
+featured_image: '/images/Lapland_mockup.png'
 ---
 
 
