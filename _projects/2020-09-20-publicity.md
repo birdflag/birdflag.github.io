@@ -6,7 +6,7 @@ featured_image: '/images/Lapland_mockup.png'
 ---
 
 
-#### <i> Publicity for fictional events and travels. See you at Lorem Ipsum 2021. </i>
+#### <i> Publicity for fictional events, magazine spreads. See you at Lorem Ipsum 2021. </i>
 
 ---
 
