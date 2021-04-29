@@ -6,7 +6,7 @@ featured_image: '/images/parakeet_illustration-01.png'
 ---
 
 
-### Illustrations and icons, from me to you filtered through Adobe.
+### A selection of illustrations and icons.
 
 ---
 
