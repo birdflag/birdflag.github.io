@@ -2,7 +2,7 @@
 title: 'Illustration'
 date: 2020-09-17 00:00:00
 description: Digital drawing and painting.
-featured_image: '/images/parakeet_illustration-01.png'
+featured_image: '/images/school_children-02.png'
 ---
 
 
