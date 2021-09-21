@@ -1,13 +1,8 @@
 ---
-title: 'Illustration'
+title: 'Illustrations and Collages'
 date: 2020-09-10 00:00:00
 description: Digital drawing and painting.
 featured_image: '/images/text_parrots_gif.gif'
----
-
-
-#### A selection of illustrations, GIFs, and icons.
-
 ---
 
 <div class="gallery" data-columns="3">
