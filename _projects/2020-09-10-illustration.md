@@ -1,13 +1,13 @@
 ---
 title: 'Illustration'
-date: 2021-21-09 00:00:00
+date: 2020-09-10 00:00:00
 description: Digital drawing and painting.
 featured_image: '/images/text_parrots_gif.gif'
 ---
 
-
+<body>
 #### <p style="color:#92D4CD";> A selection of illustrations, GIFs, and icons. </p>
-
+</body>
 ---
 
 <div class="gallery" data-columns="3">
