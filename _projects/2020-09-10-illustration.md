@@ -5,9 +5,9 @@ description: Digital drawing and painting.
 featured_image: '/images/text_parrots_gif.gif'
 ---
 
-<body>
+
 	A selection of illustrations, GIFs, and icons.
-</body>
+
 ---
 
 <div class="gallery" data-columns="3">
