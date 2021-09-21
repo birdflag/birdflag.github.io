@@ -6,7 +6,7 @@ featured_image: '/images/text_parrots_gif.gif'
 ---
 
 <body>
-#### <p style="color:#92D4CD";> A selection of illustrations, GIFs, and icons. </p>
+#### A selection of illustrations, GIFs, and icons.
 </body>
 ---
 
