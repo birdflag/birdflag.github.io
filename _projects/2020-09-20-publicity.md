@@ -6,13 +6,9 @@ featured_image: '/images/Lapland_mockup.png'
 ---
 
 
-#### <i> Publicity for fictional events, magazine spreads. See you at Lorem Ipsum 2021. </i>
+#### <i> Publicity for fictional events, magazine spreads. See you at Lorem Ipsum 2022. </i>
 
 ---
-
-### The Project
-
-These designs utilize photography, typography, pattern, drawing, and collage to get the message across in visually engaging ways.
 
 <div class="gallery" data-columns="4">
 	<img src="/images/couch_poster.png">
