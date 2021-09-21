@@ -6,6 +6,7 @@ basic_settings:
 header_settings:
   logo_image: /images/birdflag_logo2.2-03.png
   logo_width: 800
+  <meta property="og:image" content="/images/birdflag_logo2.2-03.png" />	
 
 menu_settings:
   menu_items:
