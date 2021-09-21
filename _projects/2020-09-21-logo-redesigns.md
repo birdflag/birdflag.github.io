@@ -1,8 +1,8 @@
 ---
-title: 'Blue Wheel Bicycles'
+title: 'Rebranding Projects'
 date: 2020-09-17 00:00:00
 description: BWB logo update.
-featured_image: '/images/bwb_mockup.png'
+featured_image: '/images/shenandoah_tshirt.png'
 ---
 #### <i> Speculative brand redesigns for several Charlottesville brands we love. </i>
 ---
