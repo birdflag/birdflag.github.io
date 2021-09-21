@@ -3,11 +3,6 @@ title: 'Publicity'
 date: 2020-09-17 00:00:00
 description: Publicity for imagined concert tour, etc.
 featured_image: '/images/Lapland_mockup.png'
----
-
-
-#### Publicity for fictional events, magazine spreads. See you at Lorem Ipsum 2022. 
----
 
 <div class="gallery" data-columns="4">
 	<img src="/images/couch_poster.png">
