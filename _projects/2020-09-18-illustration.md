@@ -6,7 +6,7 @@ featured_image: '/images/text_parrots_gif.gif'
 ---
 
 
-### A selection of illustrations and icons.
+### A selection of illustrations, GIFs, and icons.
 
 ---
 

@@ -6,7 +6,7 @@ featured_image: '/images/sentien_business_card_mockup.png'
 ---
 
 
-##### Logo creation for a variety of brands and identities, both speculative and real projects.
+##### Logo creation for a variety of brands and identities, both speculative and realized projects.
 
 
 <div class="gallery" data-columns="3">
