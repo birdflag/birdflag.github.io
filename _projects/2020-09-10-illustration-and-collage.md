@@ -2,7 +2,7 @@
 title: 'Illustrations and Collages'
 date: 2021-09-10 00:00:00
 description: Digital drawing and painting.
-featured_image: '/images/text_parrots_gif.gif'
+featured_image: '/images/glitch-01.png'
 ---
 
 <div class="gallery" data-columns="3">
