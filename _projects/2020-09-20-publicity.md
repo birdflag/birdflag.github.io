@@ -6,8 +6,7 @@ featured_image: '/images/Lapland_mockup.png'
 ---
 
 
-#### <i> Publicity for fictional events, magazine spreads. See you at Lorem Ipsum 2022. </i>
-
+#### Publicity for fictional events, magazine spreads. See you at Lorem Ipsum 2022. 
 ---
 
 <div class="gallery" data-columns="4">
