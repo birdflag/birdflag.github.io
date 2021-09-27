@@ -15,7 +15,7 @@ featured_image: '/images/shenandoah_tshirt.jpg'
 <div class="gallery" data-columns="3">
 	<img src="/images/shenandoah_joe_stamp_bag.jpg">
 	<img src="/images/shenandoah_tshirt.jpg">
-	<img src="/images/shenandoah_coffee_pouch.png">
+	<img src="/images/shenandoah_coffee_pouch.jpg">
 	<img src="/images/logo_comparison_shen.png">
 </div>
 </div>
