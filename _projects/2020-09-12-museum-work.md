@@ -6,9 +6,6 @@ featured_image: '/images/Firefly_poster_mockup.jpg'
 ---
 
 
-##### Speculative designs for museum shows for some of my favorite institutions and artists.  
-
-
 <div class="gallery" data-columns="3">
 	<img src="/images/onewitheternity.PNG">
 	<img src="/images/Red_kusama_brochure_mockup.jpg">
