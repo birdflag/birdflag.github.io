@@ -1,9 +1,8 @@
-
 ---
 title: About Me
 subtitle:
 description: About the designer
-featured_image: /images/demo/demo-landscape.jpg
+featured_image: /images/birdflag_logo2-03.png
 ---
 Hello! My name is Hannah Fogarty. I'm a Charlottesville-based graphic designer, museum professional, and curriculum developer. My love of all things visual is the constant thread in my life.
 <br>
