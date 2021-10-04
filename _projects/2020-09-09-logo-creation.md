@@ -10,11 +10,11 @@ featured_image: '/images/sentien_business_card_mockup.png'
 
 
 <div class="gallery" data-columns="3">
-	<img src="/images/sentien_business_card_mockup.png">
+	<img src="/images/sentien.JPG">
 	<img src="/images/mosstra-02.jpg">
 	<img src="/images/FPV_LLC_webres.png">
 	<img src="/images/m-m.jpg">
-	<img src="/images/lapin.jpg">
+	<img src="/images/au_lapin.JPG">
 	<img src="/images/syberly_silver_stamped.jpg">
 	<img src="/images/grasz.jpg">
 </div>
