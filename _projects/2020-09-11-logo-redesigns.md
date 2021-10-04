@@ -9,9 +9,9 @@ featured_image: '/images/bwb_sign.jpg'
 
 
 <div class="gallery" data-columns="3">
-	<img src="/images/Blue_wheel_logo.png">
+	<img src="/images/bwb_logo.JPG">
 	<img src="/images/bwb_sign.jpg">
-	<img src="/images/bwb_comparison.png">
+	<img src="/images/bwb_comparison.JPG">
 <div class="gallery" data-columns="3">
 	<img src="/images/shenandoah_joe_stamp_bag.jpg">
 	<img src="/images/shenandoah_tshirt.jpg">
