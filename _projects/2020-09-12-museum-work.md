@@ -7,7 +7,7 @@ featured_image: '/images/Firefly_poster_mockup.jpg'
 
 
 <div class="gallery" data-columns="3">
-	<img src="/images/onewitheternity.PNG">
+	<img src="/images/onewitheternity.JPG">
 	<img src="/images/Red_kusama_brochure_mockup.jpg">
 	<img src="/images/benin.jpg">
 	<img src="/images/Vertical_banner.jpg">
