@@ -14,5 +14,6 @@ featured_image: '/images/schoolchildren.jpg'
 	<img src="/images/glitch-01.png">
 	<img src="/images/handsupfrog.jpg">
 	<img src="/images/photo_collage_poppies-01.jpg">
+	<img src="/images/finch_plate.JPG">
 	
 </div>
