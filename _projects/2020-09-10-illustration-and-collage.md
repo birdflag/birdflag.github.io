@@ -11,7 +11,7 @@ featured_image: '/images/schoolchildren.jpg'
 	<img src="/images/Icons-&-Text.jpg">
 	<img src="/images/schoolchildren.jpg">
 	<img src="/images/retro_pool.jpg">
-	<img src="/images/glitch-01.png">
+	<img src="/images/glitch.JPG">
 	<img src="/images/handsupfrog.jpg">
 	<img src="/images/photo_collage_poppies-01.jpg">
 	<img src="/images/finch_plate.JPG">
