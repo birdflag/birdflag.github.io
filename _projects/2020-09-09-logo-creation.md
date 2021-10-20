@@ -13,7 +13,7 @@ featured_image: '/images/sentien_business_card_mockup.png'
 	<img src="/images/sentien.JPG">
 	<img src="/images/mosstra_logo-02.png">
 	<img src="/images/FPV_LLC_webres.png">
-        <img src="/images/pancakes.ong"> 
+        <img src="/images/pancakes.png"> 
 	<img src="/images/m-m.jpg">
 	<img src="/images/word-witch.JPG">
 	<img src="/images/syberly_silver_stamped.jpg">
