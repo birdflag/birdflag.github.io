@@ -9,7 +9,6 @@ featured_image: '/images/gradient-poster.JPG'
 	<img src="/images/couch_poster.JPG">
 	<img src="/images/sudan_archives_1.jpg">
 	<img src="/images/sudan_archives_2.jpg">
-	<img src="/images/gradient-poster.JPG">
 	<img src="/images/society.JPG">
 	<img src="/images/alumni_design_show.jpg">
 	<img src="/images/Lapland_mockup.jpg">
