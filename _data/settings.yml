@@ -166,7 +166,7 @@ font_settings:
 
 advanced_settings:
   ajax_loading: true
-  analytics_code: ""
+  analytics_code: "G-SBEVMJYWGQ"
   custom_styles: ""
   header_js: ""
   footer_js: ""
