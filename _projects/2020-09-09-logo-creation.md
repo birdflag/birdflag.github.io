@@ -11,7 +11,7 @@ featured_image: '/images/sentien_business_card_mockup.png'
 
 <div class="gallery" data-columns="3">
 	<img src="/images/sentien.JPG">
-	<img src="/images/mosstra_logo-02.png">
+	<img src="/images/beleza_balm-04.jpg">
 	<img src="/images/FPV_highres.png">
         <img src="/images/made-to-play.png"> 
 	<img src="/images/m-m.jpg">
