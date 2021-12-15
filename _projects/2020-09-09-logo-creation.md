@@ -1,6 +1,6 @@
 ---
 title: 'Logo Creation'
-date: 2020-09-18 00:00:00
+date: 2021-09-18 00:00:00
 description: Logos for imagined companies.
 featured_image: '/images/sentien_business_card_mockup.png'
 ---
