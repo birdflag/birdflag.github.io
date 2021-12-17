@@ -8,5 +8,5 @@ featured_image: '/images/gin-bottle.JPG'
 <div class="gallery" data-columns="4">
 	<img src="/images/wine-sauvblanc.JPG">
 	<img src="/images/gin-bottle.JPG">
-
+	<img src="/images/freely-bottle.JPG">
 </div>
