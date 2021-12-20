@@ -9,4 +9,5 @@ featured_image: '/images/gin-bottle.JPG'
 	<img src="/images/wine-sauvblanc.JPG">
 	<img src="/images/gin-bottle.JPG">
 	<img src="/images/freely-bottle.JPG">
+	<img src="/images/brash-tubes.JPG">
 </div>
