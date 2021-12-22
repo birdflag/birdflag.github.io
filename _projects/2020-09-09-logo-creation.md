@@ -17,5 +17,5 @@ featured_image: '/images/sentien_business_card_mockup.png'
 	<img src="/images/m-m.jpg">
 	<img src="/images/word-witch.JPG">
 	<img src="/images/syberly_silver_stamped.jpg">
-	<img src="/images/grasz.jpg">
+	<img src="/images/color_whitebackground.jpg">
 </div>
