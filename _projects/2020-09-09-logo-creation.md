@@ -12,7 +12,7 @@ featured_image: '/images/c-v.JPG'
 <div class="gallery" data-columns="3">
 	<img src="/images/sentien.JPG">
 	<img src="/images/beleza_balm-04.jpg">
-	<img src="/images/casa_velha.JPG">
+	<img src="/images/c-v.JPG">
         <img src="/images/made-to-play.png"> 
 	<img src="/images/m-m.jpg">
 	<img src="/images/word-witch.JPG">
