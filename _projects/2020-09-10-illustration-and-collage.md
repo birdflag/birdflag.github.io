@@ -6,7 +6,6 @@ featured_image: '/images/text_parrots_gif.gif'
 ---
 
 <div class="gallery" data-columns="3">
-	<img src="/images/parakeet-illustration.jpg">
 	<img src="/images/text_parrots_gif.gif">
 	<img src="/images/Icons-&-Text.jpg">
 	<img src="/images/schoolchildren.jpg">
