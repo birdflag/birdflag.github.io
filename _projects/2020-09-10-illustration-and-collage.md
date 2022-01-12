@@ -15,6 +15,6 @@ featured_image: '/images/text_parrots_gif.gif'
 	<img src="/images/handsupfrog.jpg">
 	<img src="/images/window-seat-small.JPG">
 	<img src="/images/photo_collage_poppies-01.jpg">
-	<img src="/images/finch_plate.JPG">
+	<img src="/images/finch-plate-mockup.JPG">
 	
 </div>
