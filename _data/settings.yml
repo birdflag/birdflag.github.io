@@ -1,10 +1,10 @@
 basic_settings:
   site_title: birdflag
   site_tagline:
-  favicon_image: /images/favicon.ico.jpg
+  favicon_image: /images/bf-ico.jpg
 
 header_settings:
-  logo_image: /images/social.jpg
+  logo_image: /images/bf22.jpg
   logo_width: 1000
   
 menu_settings:

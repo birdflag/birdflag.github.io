@@ -8,12 +8,12 @@ featured_image: '/images/text_parrots_gif.gif'
 <div class="gallery" data-columns="3">
 	<img src="/images/text_parrots_gif.gif">
 	<img src="/images/Icons-&-Text.jpg">
-	<img src="/images/schoolchildren.jpg">
+	<img src="/images/photo_collage_poppies-01.jpg">	
 	<img src="/images/retro_pool.jpg">
 	<img src="/images/glitch.JPG">
 	<img src="/images/handsupfrog.jpg">
 	<img src="/images/window-seat-small.JPG">
-	<img src="/images/photo_collage_poppies-01.jpg">
+	<img src="/images/schoolchildren.jpg">
 	<img src="/images/finch-plate-mockup.JPG">
 	
 </div>
