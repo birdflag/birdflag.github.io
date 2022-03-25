@@ -2,7 +2,7 @@
 title: 'Logo Creation'
 date: 2021-12-11 00:00:00
 description: Logos for imagined companies.
-featured_image: '/images/Casa_velha_set.jpg'
+featured_image: '/images/c-v.JPG'
 ---
 
 
@@ -12,7 +12,7 @@ featured_image: '/images/Casa_velha_set.jpg'
 <div class="gallery" data-columns="3">
 	<img src="/images/sentien.JPG">
 	<img src="/images/beleza_balm-04.jpg">
-	<img src="/images/Casa_velha_set.jpg">
+	<img src="/images/c-v.JPG">
         <img src="/images/made-to-play.png"> 
 	<img src="/images/m-m.jpg">
 	<img src="/images/word-witch.JPG">
