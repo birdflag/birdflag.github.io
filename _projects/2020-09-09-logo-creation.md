@@ -2,7 +2,7 @@
 title: 'Logo Creation'
 date: 2021-12-11 00:00:00
 description: Logos for imagined companies.
-featured_image: '/images/c-v.JPG'
+featured_image: '/images/Casa_velha_set.jpg'
 ---
 
 
