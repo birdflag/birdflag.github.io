@@ -7,7 +7,7 @@ featured_image: '/images/photo_collage_poppies-01.jpg'
 
 <div class="gallery" data-columns="3">
 	<img src="/images/text_parrots_gif.gif">
-	<img src="/images/Icons-&-Text.jpg">
+	<img src="/images/cats-insects.jpg">
 	<img src="/images/photo_collage_poppies-01.jpg">	
 	<img src="/images/retro_pool.jpg">
 	<img src="/images/glitch.JPG">
