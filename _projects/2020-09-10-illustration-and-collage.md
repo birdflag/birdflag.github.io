@@ -11,9 +11,8 @@ featured_image: '/images/photo_collage_poppies-01.jpg'
 	<img src="/images/photo_collage_poppies-01.jpg">	
 	<img src="/images/retro_pool.jpg">
 	<img src="/images/glitch.JPG">
-	<img src="/images/handsupfrog.jpg">
-	<img src="/images/window-seat-small.JPG">
+	//<img src="/images/handsupfrog.jpg">
+	//<img src="/images/window-seat-small.JPG">
 	<img src="/images/schoolchildren.jpg">
-	<img src="/images/finch-plate-mockup.JPG">
 	
 </div>
