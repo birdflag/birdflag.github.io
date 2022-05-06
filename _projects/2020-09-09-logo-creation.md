@@ -17,5 +17,5 @@ featured_image: '/images/c-v.JPG'
 	<img src="/images/m-m.jpg">
 	<img src="/images/word-witch.JPG">
 	<img src="/images/syberly_silver_stamped.jpg">
-	<img src="/images/color_whitebackground.jpg">
+	<img src="/images/catrina.JPG">
 </div>
