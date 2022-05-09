@@ -4,6 +4,7 @@ subtitle:
 description: About the designer
 featured_image: /images/birdflag_logo2-03.png
 ---
+<div style="text-align: left;"><img src="authorphoto.jpg"></div>
 Hello! My name is Hannah Fogarty. I'm a Charlottesville-based graphic designer and art teacher. 
 <br>
 <br>
