@@ -10,7 +10,12 @@ Hello! My name is Hannah Fogarty. I'm a Charlottesville-based graphic designer.
 I love working with entrepreneurs, hard workers, and dreamers who are putting something new out into the world. I can help you find the right visual presence for your endeavor.
 Contact me at hfogartydesign@gmail.com to talk!
 
+
+<div class="gallery" data-columns="3">
+
 ![](/images/authorphoto.jpg)
+
+</div>
 
 
 
