@@ -11,11 +11,11 @@ featured_image: '/images/c-v.JPG'
 
 <div class="gallery" data-columns="3">
 	<img src="/images/sentien.JPG">
-	<img src="/images/beleza_balm-04.jpg">
+	<img src="/images/beleza.png">
 	<img src="/images/c-v.JPG">
         <img src="/images/made-to-play.png"> 
-	<img src="/images/m-m.jpg">
+	<img src="/images/m-m.png">
 	<img src="/images/word-witch.JPG">
 	<img src="/images/syberly_silver_stamped.jpg">
-	<img src="/images/catrina.JPG">
+	<img src="/images/catrina.png">
 </div>
