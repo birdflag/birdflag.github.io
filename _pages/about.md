@@ -11,8 +11,5 @@ I love working with entrepreneurs, hard workers, and dreamers who are putting so
 Contact me at hfogartydesign@gmail.com to talk!
 
 
-![](/images/authorphoto.jpg)
-
-
-
+![] <a href="images/authorphoto.jpg" width='250'>
 
