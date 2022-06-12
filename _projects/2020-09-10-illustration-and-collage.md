@@ -2,7 +2,7 @@
 title: 'Illustrations and Collages'
 date: 2021-09-10 00:00:00
 description: Digital drawing and painting.
-featured_image: '/images/photo_collage_poppies-01.jpg'
+featured_image: '/images/airplane-gif.gif'
 ---
 
 <div class="gallery" data-columns="3">
@@ -10,6 +10,7 @@ featured_image: '/images/photo_collage_poppies-01.jpg'
 	<img src="/images/cat-insects.jpg">
 	<img src="/images/photo_collage_poppies-01.jpg">	
 	<img src="/images/retro_pool.jpg">
+	<img src="/images/airplane-gif.gif">
 	<img src="/images/glitch.JPG">
 	<img src="/images/schoolchildren.jpg">
 	<img src="/images/character_doodles.JPG">
