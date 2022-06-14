@@ -6,9 +6,6 @@ featured_image: '/images/c-v.JPG'
 ---
 
 
-##### Logo creation for a variety of brands and identities, both speculative and realized projects.
-
-
 <div class="gallery" data-columns="3">
 	<img src="/images/sentien.JPG">
 	<img src="/images/beleza.png">
