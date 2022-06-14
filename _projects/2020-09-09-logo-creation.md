@@ -2,7 +2,7 @@
 title: 'Logos'
 date: 2021-12-11 00:00:00
 description: Logo work and branding.
-featured_image: '/images/c-v.JPG'
+featured_image: '/images/c-v-layout.JPG'
 ---
 
 
