@@ -2,7 +2,7 @@
 title: 'Label and Packaging Design'
 date: 2020-08-17 00:00:00
 description: Label and packaging mockups
-featured_image: '/images/gin-bottle.JPG'
+featured_image: '/images/wine-sauv2.JPG'
 ---
 
 <div class="gallery" data-columns="4">
