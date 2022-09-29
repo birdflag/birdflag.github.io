@@ -14,7 +14,7 @@ menu_settings:
     - title: 'About'
       url: '/about'
     - title: 'Contact'
-      url: '/contact'
+      url: 'https://birdflag.azurewebsites.net/'
 
 grid_settings:
   overlay_opacity: 0.8
