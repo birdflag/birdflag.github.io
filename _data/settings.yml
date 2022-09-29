@@ -13,7 +13,7 @@ menu_settings:
       url: '/'
     - title: 'About'
       url: '/about'
-    - title: 'Contact'
+    - title: 'Design Form'
       url: 'https://birdflag.azurewebsites.net/'
 
 grid_settings:
