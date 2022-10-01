@@ -1,7 +1,7 @@
 basic_settings:
   site_title: 
   site_tagline:
-  favicon_image: /images/bf-ico.jpg
+  favicon_image: /images/bf.ico.png
 
 header_settings:
   logo_image: /images/bf22.png
