@@ -11,7 +11,7 @@ I love working with entrepreneurs, hard workers, and dreamers who are putting so
 
 <small> No time to hire a graphic designer and copywriter? I also offer copywriting for your business to both show and tell the world what you're all about.  
 
-<small> Contact me at hfogartydesign@gmail.com to talk, or use my Design Form to share your vision! 
+<small> Contact me at hfogartydesign@gmail.com to talk, or use the Design Form to share your vision! 
 
 
 <img src="/images/portrait.jpg" width="450">
