@@ -13,6 +13,6 @@ featured_image: '/images/photo_collage_poppies-01.jpg'
 	<img src="/images/airplane-gif.gif">
 	<img src="/images/glitch.JPG">
 	<img src="/images/schoolchildren.jpg">
-	<img src="/images/character_doodles.JPG">
+	<img src="/images/doodles.jpg">
 	
 </div>
