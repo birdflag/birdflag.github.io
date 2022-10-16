@@ -10,7 +10,6 @@ featured_image: '/images/photo_collage_poppies-01.jpg'
 	<img src="/images/cat-insects.jpg">
 	<img src="/images/photo_collage_poppies-01.jpg">	
 	<img src="/images/retro_pool.jpg">
-	<img src="/images/airplane-gif.gif">
 	<img src="/images/glitch.JPG">
 	<img src="/images/schoolchildren.jpg">
 	<img src="/images/doodles.jpg">
