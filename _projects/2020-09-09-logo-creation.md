@@ -17,5 +17,5 @@ featured_image: '/images/c-v-layout.JPG'
 	<img src="/images/m-m.png">
 	<img src="/images/word-witch.JPG">
 	<img src="/images/catrina.png">
-	<img src="/images/law-order.png">
+	<img src="/images/square_transparent.png">
 </div>
