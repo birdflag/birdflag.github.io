@@ -13,5 +13,5 @@ featured_image: '/images/photo_collage_poppies-01.jpg'
 	<img src="/images/glitch.JPG">
 	<img src="/images/schoolchildren.jpg">
 	<img src="/images/doodles.jpg">
-	
+	<img src="/images/mystery.jpg">
 </div>
