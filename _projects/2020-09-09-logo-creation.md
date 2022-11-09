@@ -11,7 +11,7 @@ featured_image: '/images/c-v-layout.JPG'
 	<img src="/images/beleza.png">
 	<img src="/images/c-v.JPG">
 	<img src="/images/illuminate-pt.png">
-	<img src="/images/cc-logo.png">
+	<img src="/images/mcoach.jpg">
 	<img src="/images/lonely-aurora.png">
         <img src="/images/made-to-play.png"> 
 	<img src="/images/m-m.png">
