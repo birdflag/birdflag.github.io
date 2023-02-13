@@ -12,7 +12,7 @@ featured_image: '/images/aurora_mockup.jpg'
 	<img src="/images/c_v_mockup.jpg">
 	<img src="/images/illuminate-pt.png">
 	<img src="/images/sine.png">
-	<img src="/images/lonely-aurora.png">
+	<img src="/images/aurora_mockup.jpg">
         <img src="/images/made-to-play.png"> 
 	<img src="/images/m-m.png">
 	<img src="/images/word-witch.JPG">
