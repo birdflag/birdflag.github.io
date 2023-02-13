@@ -2,14 +2,14 @@
 title: 'Logos'
 date: 2021-12-11 00:00:00
 description: Logo work and branding.
-featured_image: '/images/c-v-layout.JPG'
+featured_image: '/images/aurora_mockup.jpg'
 ---
 
 
 <div class="gallery" data-columns="3">
 	<img src="/images/sentien.JPG">
 	<img src="/images/beleza.png">
-	<img src="/images/c-v.JPG">
+	<img src="/images/c_v_mockup.jpg">
 	<img src="/images/illuminate-pt.png">
 	<img src="/images/sine.png">
 	<img src="/images/lonely-aurora.png">
