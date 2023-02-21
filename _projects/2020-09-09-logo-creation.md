@@ -15,6 +15,7 @@ featured_image: '/images/aurora_mockup.jpg'
 	<img src="/images/aurora_mockup.jpg">
         <img src="/images/made-to-play.png"> 
 	<img src="/images/m-m.png">
+	<img src="/images/le_carr.png">
 	<img src="/images/word-witch.JPG">
 	<img src="/images/catrina.png">
 	<img src="/images/square_transparent.png">
