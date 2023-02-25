@@ -10,6 +10,8 @@ featured_image: '/images/wine-sauv2.JPG'
 	<img src="/images/gin-bottle.JPG">
 	<img src="/images/sine_serum.png">
 	<img src="/images/freely-bottle.JPG">
+     	<img src="/images/basil2.jpg">
 	<img src="/images/brash-tubes.JPG">
+	<img src="/images/cerise_package.JPG">
 	<img src="/images/finch-plate-mockup.JPG">
 </div>

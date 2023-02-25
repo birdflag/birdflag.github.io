@@ -11,6 +11,7 @@ featured_image: '/images/Firefly_poster_mockup.jpg'
 	<img src="/images/onewitheternity.JPG">
 	<img src="/images/Red_kusama_brochure_mockup.jpg">
 	<img src="/images/benin.jpg">
+	<img src="/images/cerise_site_mockup2.jpeg">
 	<img src="/images/society.JPG">
 	<img src="/images/gradient-poster.JPG">
 	<img src="/images/alumni_design_show.jpg">
