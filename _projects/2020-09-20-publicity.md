@@ -16,6 +16,5 @@ featured_image: '/images/Firefly_poster_mockup.jpg'
 	<img src="/images/gradient-poster.JPG">
 	<img src="/images/alumni_design_show.jpg">
 	<img src="/images/Lapland_mockup.jpg">
-	<img src="/images/guston-poster.JPG">
 
 </div>
