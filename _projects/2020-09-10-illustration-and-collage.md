@@ -14,6 +14,7 @@ featured_image: '/images/photo_collage_poppies-01.jpg'
 	<img src="/images/match_poster.jpg">
 	<img src="/images/schoolchildren.jpg">
 	<img src="/images/oyster_date2.jpg">
+	<img src="/images/grub_life.jpg">
 	<img src="/images/cwasan.jpg">
 	<img src="/images/mystery.jpg">
 </div>
