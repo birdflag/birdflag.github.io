@@ -9,11 +9,11 @@ featured_image: '/images/photo_collage_poppies-01.jpg'
 	<img src="/images/text_parrots_gif.gif">
 	<img src="/images/teeshirt.jpg">
 	<img src="/images/photo_collage_poppies-01.jpg">	
-	<img src="/images/retro_pool.jpg">
 	<img src="/images/glitch.JPG">
 	<img src="/images/prair_dogs.jpg">
 	<img src="/images/match_poster.jpg">
 	<img src="/images/schoolchildren.jpg">
-	<img src="/images/doodles.jpg">
+	<img src="/images/oyster_date2.jpg">
+	<img src="/images/cwasan.jpg">
 	<img src="/images/mystery.jpg">
 </div>
