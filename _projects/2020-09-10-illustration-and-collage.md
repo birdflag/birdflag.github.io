@@ -16,5 +16,5 @@ featured_image: '/images/photo_collage_poppies-01.jpg'
 	<img src="/images/grub_life.jpg">
 	<img src="/images/cwasan.jpg">
 	<img src="/images/mystery.jpg">
-	<img src="/images/oyster_date2.jpg">
+	
 </div>
