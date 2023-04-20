@@ -2,7 +2,7 @@
 title: 'Logos'
 date: 2021-12-11 00:00:00
 description: Logo work and branding.
-featured_image: '/images/aurora_mockup.jpg'
+featured_image: '/images/tide_logo.jpg'
 ---
 
 
@@ -17,7 +17,6 @@ featured_image: '/images/aurora_mockup.jpg'
 	<img src="/images/m-m.png">
 	<img src="/images/wwn.png">
 	<img src="/images/le_carr_overprint.jpg">
-	<img src="/images/word-witch.JPG">
 	<img src="/images/catrina.png">
 	<img src="/images/square_transparent.png">
 </div>
