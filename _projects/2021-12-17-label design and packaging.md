@@ -13,5 +13,6 @@ featured_image: '/images/wine-sauv2.JPG'
      	<img src="/images/basil3.png">
 	<img src="/images/brash-tubes.JPG">
 	<img src="/images/cerise_package.JPG">
+	<img src="/images/citlalin_mockup.jpg">
 	<img src="/images/finch-plate-mockup.JPG">
 </div>
