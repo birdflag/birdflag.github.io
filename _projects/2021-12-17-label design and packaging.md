@@ -2,7 +2,7 @@
 title: 'Label and Packaging Design'
 date: 2020-08-17 00:00:00
 description: Label and packaging mockups
-featured_image: '/images/Dippsterz.png'
+featured_image: '/images/dippsterz.png'
 ---
 
 <div class="gallery" data-columns="4">
@@ -14,5 +14,5 @@ featured_image: '/images/Dippsterz.png'
 	<img src="/images/brash-tubes.JPG">
 	<img src="/images/cerise_package.JPG">
 	<img src="/images/citlalin_mockup.jpg">
-	<img src="/images/Dippsterz.png">
+	<img src="/images/dippsterz.png">
 </div>
