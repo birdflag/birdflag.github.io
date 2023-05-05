@@ -18,5 +18,6 @@ featured_image: '/images/tide_logo.jpg'
 	<img src="/images/wwn.png">
 	<img src="/images/le_carr_overprint.jpg">
 	<img src="/images/catrina.png">
+	<img src="/images/chigo.png">
 	
 </div>

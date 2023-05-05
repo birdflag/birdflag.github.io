@@ -11,7 +11,6 @@ featured_image: '/images/dippsterz.png'
 	<img src="/images/sine_serum.png">
 	<img src="/images/freely-bottle.JPG">
      	<img src="/images/basil3.png">
-	<img src="/images/brash-tubes.JPG">
 	<img src="/images/cerise_package.JPG">
 	<img src="/images/citlalin_mockup.jpg">
 	<img src="/images/dippsterz.png">
