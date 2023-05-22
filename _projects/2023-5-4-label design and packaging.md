@@ -1,6 +1,6 @@
 ---
 title: 'Label and Packaging Design'
-date: 2020-08-17 00:00:00
+date: 2022-05-22 00:00:00
 description: Label and packaging mockups
 featured_image: '/images/dippsterz.png'
 ---
