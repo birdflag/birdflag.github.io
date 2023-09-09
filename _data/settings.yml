@@ -68,9 +68,9 @@ color_settings:
   error_color: '#D64541'
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css?family=Ebrima:300,500" rel="stylesheet">'
-  title_font: '"Ebrima"'
-  body_font: '"Ebrima"'
+  font_embed: '<link href="https://fonts.googleapis.com/css?family=Lora:300,500" rel="stylesheet" ; link href="https://fonts.googleapis.com/css? family=Lato:200,500">'
+  title_font: '"Lora"'
+  body_font: '"Lato"'
   regular_weight: 300
   bold_weight: 500
   site_title:
