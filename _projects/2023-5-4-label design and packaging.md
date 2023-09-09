@@ -14,4 +14,5 @@ featured_image: '/images/dippsterz.png'
 	<img src="/images/cerise_package.JPG">
 	<img src="/images/citlalin_mockup.jpg">
 	<img src="/images/dippsterz.png">
+	<img src="/images/serene_sage.jpg">
 </div>
