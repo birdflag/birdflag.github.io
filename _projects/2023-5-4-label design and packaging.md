@@ -12,6 +12,7 @@ featured_image: '/images/dippsterz.png'
 	<img src="/images/freely-bottle.JPG">
      	<img src="/images/basil3.png">
 	<img src="/images/cerise_package.JPG">
+	<img src="/images/redeye1.jpg">
 	<img src="/images/citlalin_mockup.jpg">
 	<img src="/images/dippsterz.png">
 	<img src="/images/serene_sage.jpg">
