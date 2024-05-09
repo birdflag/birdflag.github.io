@@ -2,7 +2,7 @@
 title: 'Illustrations and Collages'
 date: 2021-09-10 00:00:00
 description: Digital drawing and painting.
-featured_image: '/images/window-seat.jpg'
+featured_image: '/images/RedEye.webp'
 ---
 
 <div class="gallery" data-columns="3">
