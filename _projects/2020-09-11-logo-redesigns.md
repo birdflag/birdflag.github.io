@@ -2,7 +2,7 @@
 title: 'Rebranding Projects'
 date: 2020-09-17 00:00:00
 description: BWB logo update.
-featured_image: '/images/bwb_sign.jpg'
+featured_image: '/images/shenandoah_tshirt.jpg'
 ---
 #### Speculative brand redesigns for several Charlottesville brands we love. 
 ---
