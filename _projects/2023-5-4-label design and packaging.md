@@ -2,7 +2,7 @@
 title: 'Label and Packaging Design'
 date: 2022-05-22 00:00:00
 description: Label and packaging mockups
-featured_image: '/images/citlalin_mockup.jpg'
+featured_image: 'images/Chardonnay_square.jpg'
 ---
 
 <div class="gallery" data-columns="4">
@@ -13,7 +13,7 @@ featured_image: '/images/citlalin_mockup.jpg'
      	<img src="/images/basil3.png">
 	<img src="/images/cerise_package.JPG">
 	<img src="/images/Chardonnay_square.jpg">
-	<img src="/images/redeye1.jpg">
+	<img src="/images/JoyRide_coldbrew.webp">
 	<img src="/images/citlalin_mockup.jpg">
 	<img src="/images/dippsterz.png">
 	<img src="/images/serene_sage.jpg">
