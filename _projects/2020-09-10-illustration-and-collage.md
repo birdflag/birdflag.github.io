@@ -12,7 +12,6 @@ featured_image: '/images/window-seat.jpg'
 	<img src="/images/windowseatbags2.jpg">
 	<img src="/images/photo_collage_poppies-01.jpg">	
 	<img src="/images/glitch.JPG">
-	<img src="/images/match_poster.jpg">
 	<img src="/images/schoolchildren.jpg">
 	<img src="/images/grub_life.jpg">
 	
