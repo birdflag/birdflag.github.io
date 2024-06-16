@@ -7,11 +7,9 @@ featured_image: 'images/Chardonnay_square.jpg'
 
 <div class="gallery" data-columns="4">
 	<img src="/images/heliodorus2.jpeg">
-	<img src="/images/gin-bottle.JPG">
 	<img src="/images/sine_serum.png">
 	<img src="/images/freely-bottle.JPG">
      	<img src="/images/basil3.png">
-	<img src="/images/cerise_package.JPG">
 	<img src="/images/Chardonnay_square.jpg">
 	<img src="/images/JoyRide_coldbrew.webp">
 	<img src="/images/citlalin_mockup.jpg">
