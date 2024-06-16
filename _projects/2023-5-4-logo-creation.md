@@ -14,7 +14,7 @@ featured_image: '/images/sentien.JPG'
 	<img src="/images/sparkposter.jpg">
 	<img src="/images/spark_compact.jpg">
 	<img src="/images/spark_lipstick.jpg">
-<div class="gallery" data-columns="3">
+<div class="gallery" data-columns="4">
 	<img src="/images/le_carr_overprint.jpg">
 	<img src="/images/sentien.JPG">
 	<img src="/images/tide_logo.jpg">
