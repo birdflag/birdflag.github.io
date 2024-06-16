@@ -18,6 +18,7 @@ featured_image: '/images/RedEye.webp'
 <div class="gallery" data-columns="3">
 	<img src="/images/schoolchildren.jpg">
 	<img src="/images/grub_life.jpg">
+	<img src="/images/berntein.jpg">
 	<img src="/images/meridian_octopus.jpg">
 	<img src="/images/child_crow.jpg">
 	<img src="/images/dragonfly.jpg">
