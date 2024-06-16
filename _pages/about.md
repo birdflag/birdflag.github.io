@@ -1,8 +1,6 @@
 ---
 title: Hello there.
-subtitle:
 description: About the designer
-featured_image: /images/birdflag_logo2-03.png
 ---
 <small> My name is Hannah Fogarty. I'm a Charlottesville-based graphic designer. Tarheel (B.A.) and Ram (M.A.), with deep roots in art and design.
 
