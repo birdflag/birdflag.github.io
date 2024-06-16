@@ -14,6 +14,7 @@ featured_image: '/images/RedEye.webp'
 	<img src="/images/glitch.JPG">
 	<img src="/images/schoolchildren.jpg">
 	<img src="/images/grub_life.jpg">
+	<img src="/images/meridian_octopus.jpg">
 	
 	
 	
