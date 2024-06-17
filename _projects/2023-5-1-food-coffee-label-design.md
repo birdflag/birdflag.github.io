@@ -2,7 +2,7 @@
 title: 'Coffee, Food, and Supplements'
 date: 2022-05-22 00:00:00
 description: Label and packaging design
-featured_image: 'images/freely-bottle.JPG'
+featured_image: 'images/JoyRide_coldbrew.webp'
 ---
 
 <div class="gallery" data-columns="1">
