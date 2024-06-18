@@ -152,9 +152,17 @@ p, ul, ol {
 	}
 }
 
+
 ul, ol {
 	list-style-position: inside;
 }
+
+/* Media query for mobile devices */
+@media (max-width: 767px) {
+  .header {
+    margin-bottom: 10px; /* Reduced value */
+    padding-bottom: 5px; /* Reduced value */
+  }
 
 blockquote {
 	margin-top: 15px;
@@ -373,13 +381,6 @@ section {
 		margin-top: 80px;
 	}
 }
-
-/* Media query for mobile devices */
-@media (max-width: 767px) {
-  .header {
-    margin-bottom: 10px; /* Reduced value */
-    padding-bottom: 5px; /* Reduced value */
-  }
 
 .wrap {
 	position: relative;
