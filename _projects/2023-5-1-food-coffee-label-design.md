@@ -5,7 +5,7 @@ description: Label and packaging design
 featured_image: 'images/JoyRide_coldbrew.webp'
 ---
 
-<div class="gallery" data-columns="3">
+<div class="gallery" data-columns="1">
 	<img src="/images/dips.jpg">
 	<img src="/images/sine_serum.png">
 	<img src="/images/freely-bottle.JPG">
