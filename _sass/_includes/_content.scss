@@ -22,7 +22,7 @@
 	}
 
 	/* Media query for mobile devices */
-	media (max-width: 767px) {
+	@media (max-width: 767px) {
 	 .header {
 	   margin-bottom: 10px; /* Reduced value */
 	   padding-bottom: 5px; /* Reduced value */
