@@ -360,7 +360,7 @@ body.loading {
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Page sections
 
 section {
-	margin-top: 20px;
+	margin-top: 40px;
 
 	@include mq(tabletp) {
 		margin-top: 50px;
@@ -373,6 +373,14 @@ section {
 	@include mq(laptop) {
 		margin-top: 80px;
 	}
+
+	/* Media query for mobile devices */
+	@media (max-width: 767px) {
+ 	 .header {
+  	  margin-bottom: 10px; /* Reduced value */
+    	  padding-bottom: 5px; /* Reduced value */
+
+
 }
 
 .wrap {
