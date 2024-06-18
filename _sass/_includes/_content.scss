@@ -6,7 +6,7 @@
 
 .intro {
 	margin-top: 0;
-	padding: 20px 0 0;
+	padding: 10px 0 0;
 	background: $background-alt-color;
 
 	@include mq(tabletp) {
@@ -20,6 +20,13 @@
 	@include mq(laptop) {
 		padding: 53px $grid-spacing 0;
 	}
+
+	/* Media query for mobile devices */
+	media (max-width: 767px) {
+	 .header {
+	   margin-bottom: 10px; /* Reduced value */
+	   padding-bottom: 5px; /* Reduced value */
+	 }
 
 	.wrap {
 
