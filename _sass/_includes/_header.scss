@@ -24,6 +24,16 @@
 		width: 30%;
 		padding: 0;
 	}
+
+	/* Media query for mobile devices */
+@media (max-width: 767px) {
+  .header {
+    margin-bottom: 10px; /* Reduced value */
+    padding-bottom: 5px; /* Reduced value */
+  }
+
+  }
+
 }
 
 .header__content {
@@ -37,6 +47,16 @@
 	@include mq(laptop) {
 		padding: 60px 60px 145px;
 	}
+
+	/* Media query for mobile devices */
+@media (max-width: 767px) {
+    .content {
+    margin-top: 10px; /* Reduced value */
+    padding-top: 5px; /* Reduced value */
+  }
+}
+
+
 }
 
 .header__logo {
