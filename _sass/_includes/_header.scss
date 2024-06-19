@@ -26,9 +26,9 @@
 	}
 
 	/* Media query for mobile devices */
-@media (max-width: 767px) {
+@include mq(phonel) {
   .header {
-    margin-bottom: 5px; /* Reduced value */
+    margin-bottom: 10px; /* Reduced value */
     padding-bottom: 5px; /* Reduced value */
   }
 
@@ -49,7 +49,7 @@
 	}
 
 	/* Media query for mobile devices */
-@media (max-width: 767px) {
+@include mq(phonel) {
     .content {
     margin-top: 5px; /* Reduced value */
     padding-top: 5px; /* Reduced value */
