@@ -65,7 +65,7 @@ color_settings:
   overlay_background_color: '#92D4CD'
   overlay_text_color: '#ffffff'
   overlay_accent_color: '#2A2F36'
-  error_color: '#92D4CD'
+  error_color: '#537e7b'
 
 font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css?family=Lora:300,500" rel="stylesheet">'
