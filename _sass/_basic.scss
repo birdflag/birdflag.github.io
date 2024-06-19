@@ -1,3 +1,10 @@
+// - - - - - - - - - - - - - - - - - -
+
+// Basics
+
+// - - - - - - - - - - - - - - - - - -
+
+
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Basics
 
 html, body {
@@ -13,17 +20,7 @@ body {
 	color: $text-medium-color;
 }
 
-// Add custom rule to reduce white space on mobile devices
-@media (max-width: 767px) {
-  h1, h2, h3, h4, h5, h6 {
-    margin-top: 10px; /* Reduce the margin to decrease white space */
-    padding-bottom: 5px; /* Optional: reduce padding if necessary */
-  }
 
-  p, ul, ol {
-    margin-top: 10px; /* Reduce the margin to decrease white space */
-  }
-}
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Typography
 
@@ -155,6 +152,7 @@ p, ul, ol {
 	}
 }
 
+
 ul, ol {
 	list-style-position: inside;
 }
@@ -222,8 +220,8 @@ a {
 	}
 
 	&:hover {
-		background: adjust-hue($accent-color, 15%);
-		border-color: adjust-hue($accent-color, 15%);
+		background: adjust-hue($accent-color,15%);
+		border-color: adjust-hue($accent-color,15%);
 		color: $background-color;
 	}
 
@@ -287,8 +285,10 @@ hr {
 	background: $border-color;
 }
 
-::selection { background: $accent-color; color: $background-color; }
+::selection 	 { background: $accent-color; color: $background-color; }
 ::-moz-selection { background: $accent-color; color: $background-color; }
+
+
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Page loading
 
@@ -297,7 +297,7 @@ hr {
 }
 
 .page {
-	@include transition(all 0.6s cubic-bezier(.87, -.41, .19, 1.44));
+	@include transition(all 0.6s cubic-bezier(.87,-.41,.19,1.44));
 }
 
 body.loading {
@@ -312,7 +312,7 @@ body.loading {
 		opacity: 0;
 		visibility: hidden;
 		@include transition(all 0.4s ease-in-out, transform 0s ease-in-out 0.4s);
-		@include translate(0, 20px);
+		@include translate(0,20px);
 	}
 
 	.footer {
@@ -326,7 +326,7 @@ body.loading {
 	position: fixed;
 	top: 50%;
 	left: 50%;
-	@include translate(-50%, -50%);
+	@include translate(-50%,-50%);
 	width: 60px;
 	height: 15px;
 
@@ -337,7 +337,7 @@ body.loading {
 	svg {
 		width: 100%;
 		height: 100%;
-		fill: rgba($text-dark-color, 0.2);
+		fill: rgba($text-dark-color,0.2);
 	}
 }
 
@@ -355,6 +355,8 @@ body.loading {
 	}
 }
 
+
+
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Page sections
 
 section {
@@ -365,4 +367,99 @@ section {
 	}
 
 	@include mq(tabletl) {
-	
+		margin-top: 60px;
+	}
+
+	@include mq(laptop) {
+		margin-top: 80px;
+	}
+
+			
+}
+
+.wrap {
+	position: relative;
+	margin: 0 auto;
+	padding: 0 20px;
+
+	@include mq(tabletp) {
+		padding: 0 40px;
+	}
+
+	@include mq(tabletl) {
+		padding: 0;
+	}
+
+	@include mq(laptop) {
+		
+	}
+}
+
+
+
+// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Buy CTA
+
+.buy-cta {
+	position: fixed;
+	bottom: 0;
+	right: 0;
+}
+
+.buy-cta__link {
+	display: block;
+	position: relative;
+	width: 40px;
+	height: 40px;
+	background: #dc5b5d;
+
+	@include mq(tabletp) {
+		width: 60px;
+		height: 60px;
+	}
+
+	svg {
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		width: 20px;
+		height: 20px;
+		@include translate(-50%,-50%);
+		fill: #fff;
+
+		@include mq(tabletp) {
+			width: 30px;
+			height: 30px;
+		}
+	}
+
+	&:hover {
+
+		.buy-cta__text {
+			@include translate(0,0);
+			opacity: 1;
+		}
+	}
+}
+
+.buy-cta__text {
+	position: absolute;
+	top: 0;
+	right: 40px;
+	background: #dc5b5d;
+	padding: 14px 10px 13px 17px;
+	color: #fff;
+	font-size: 13px;
+	line-height: 1;
+	white-space: nowrap;
+
+	@include transition(all 0.15s ease-in-out);
+	@include translate(0,20px);
+	opacity: 0;
+
+	@include mq(tabletp) {
+		right: 60px;
+		padding: 22px 14px 23px 25px;
+		font-size: 15px;
+		@include translate(0,30px);
+	}
+}
