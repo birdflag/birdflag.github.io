@@ -28,6 +28,19 @@
 	
 }
 
+// Default header style
+.site-header {
+  padding: 20px 0; // Original padding
+}
+
+// Mobile-specific adjustments
+@media (max-width: 768px) {
+  .site-header {
+    padding-bottom: 10px; // Reduced padding for mobile
+  }
+}
+
+
 .header__content {
 
 	@include mq(tabletl) {
