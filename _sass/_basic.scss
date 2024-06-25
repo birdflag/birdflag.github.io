@@ -360,21 +360,19 @@ body.loading {
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Page sections
 
 section {
-	margin-top: 40px;
+	margin-top: 20px; // Adjusted from 40px to 20px for example
 
 	@include mq(tabletp) {
-		margin-top: 50px;
+		margin-top: 30px; // Adjusted from 50px to 30px
 	}
 
 	@include mq(tabletl) {
-		margin-top: 60px;
+		margin-top: 40px; // Adjusted from 60px to 40px
 	}
 
 	@include mq(laptop) {
-		margin-top: 80px;
+		margin-top: 60px; // Adjusted from 80px to 60px
 	}
-
-			
 }
 
 .wrap {
