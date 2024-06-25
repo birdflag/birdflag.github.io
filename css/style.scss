@@ -172,7 +172,7 @@ $grid-spacing: {{ site.data.settings.grid_settings.grid_spacing }}px;
     display: inline;
 }
 
-/* Mobile-specific styles */
+/* Mobile-specific styles ADDED HF */
 @media only screen and (max-width: 767px) {
     .mobile-hide {
         display: none;
