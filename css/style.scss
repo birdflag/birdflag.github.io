@@ -164,6 +164,19 @@ $grid-spacing: {{ site.data.settings.grid_settings.grid_spacing }}px;
 @import "_includes/_portfolio";
 @import "_includes/_blog";
 
-// Import mobile styles
-//@import "_includes/_mobile";
+
+// Custom styles for mobile
+
+/* Default styles (apply to all devices) */
+.mobile-hide {
+    display: inline;
+}
+
+/* Mobile-specific styles */
+@media only screen and (max-width: 767px) {
+    .mobile-hide {
+        display: none;
+    }
+}
+
 
