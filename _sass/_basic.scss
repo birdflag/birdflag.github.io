@@ -360,9 +360,12 @@ body.loading {
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Page sections
 
 section {
-	margin-top: 10px;
+	margin-top: 40px;
 
-	
+	@include mq(phonel)  {
+		margin-top: 10px;
+	}
+
 	@include mq(tabletp) {
 		margin-top: 50px;
 	}
