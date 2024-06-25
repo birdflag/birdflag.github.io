@@ -379,21 +379,21 @@ section {
 }
 
 .wrap {
-    position: relative;
-    margin: 0 auto;
-    padding: 0 10px; // Adjusted from 20px to 10px for phones
+	position: relative;
+	margin: 0 auto;
+	padding: 0 20px;
 
-    @include mq(tabletp) {
-        padding: 0 20px; // Adjusted from 40px to 20px for tablets
-    }
+	@include mq(tabletp) {
+		padding: 0 40px;
+	}
 
-    @include mq(tabletl) {
-        padding: 0; // No padding for large tablets
-    }
+	@include mq(tabletl) {
+		padding: 0;
+	}
 
-    @include mq(laptop) {
-        // Add any additional styles for laptop view if needed
-    }
+	@include mq(laptop) {
+		
+	}
 }
 
 
