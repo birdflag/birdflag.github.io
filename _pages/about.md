@@ -2,11 +2,11 @@
 title: Hello there.
 description: About the designer
 ---
-<small> My name is Hannah Fogarty. I'm a Charlottesville-based graphic designer. Tarheel (B.A.) and Ram (M.A.), with deep roots in art and design.
+<small> My name is Hannah Fogarty. I'm a graphic designer in Charlottesville, VA, with deep roots in art and design.
 
-<small> I love working with entrepreneurs, hard workers, and dreamers who are putting something new out into the world, and I can help you find the right visual presence for your endeavor (I also offer copywriting services if you're looking for a one-stop shop!).
+<small> I love working with entrepreneurs, hard workers, and dreamers who are putting something new out into the world, and I can help you find the right visual presence for your endeavor. I create handmade designs that solve the problem of how to communicate who you are and what you offer, getting this message to the right audiences.
  
-<small> Contact me at hfogartydesign@gmail.com to talk, or use the Design Form at left to share your brand vision! 
+<small> Contact me at hfogartydesign@gmail.com to talk, or use the Design Form at left to share your brand or project vision! 
 
 
 <img src="/images/self.png" width="450">
