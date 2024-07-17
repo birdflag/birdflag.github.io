@@ -60,7 +60,7 @@ color_settings:
   text_dark_color: '#000000'
   text_medium_color: '#000000'
   text_light_color: '#000000'
-  accent_color: '#92AED3'
+  accent_color: '#6D2C32'
   border_color: '#dddddd'
   overlay_background_color: '#92D4CD'
   overlay_text_color: '#ffffff'
