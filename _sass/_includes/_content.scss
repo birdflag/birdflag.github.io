@@ -6,7 +6,7 @@
 
 .intro {
 	margin-top: 0;
-	padding: 10px 0 0;
+	padding: 5px 0 0; /*reduced from 10 to 5*/
 	background: $background-alt-color;
 
 	@include mq(tabletp) {
@@ -51,7 +51,7 @@
 
 .single {
 	margin-top: 0;
-	padding: 20px 0;
+	padding: 10px 0; /*reduced from 20 ro 10*/
 	background: $background-alt-color;
 	min-height: 100vh;
 
