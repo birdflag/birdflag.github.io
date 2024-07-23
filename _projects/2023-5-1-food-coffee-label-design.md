@@ -11,5 +11,7 @@ featured_image: 'images/JoyRide_coldbrew.webp'
 	<img src="/images/freely-bottle.JPG">
      	<img src="/images/JoyRide_coldbrew.webp">
 	<img src="/images/serene_sage.jpg">
+	<img src="/images/basil.jpg">
+	<img src="/images/RedEye.webp">
 
 </div>
