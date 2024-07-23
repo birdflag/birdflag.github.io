@@ -5,7 +5,7 @@ description: Label design for wine and spirits
 featured_image: 'images/heliodorus2.jpeg'
 ---
 
-<div class="gallery" data-columns="1">
+<div class="gallery" data-columns="3">
 	<img src="/images/citlalin_mockup.jpg">
 	<img src="/images/GL_chardonnay.jpg">
 	<img src="/images/Chardonnay_square.jpg">
