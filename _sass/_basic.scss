@@ -360,8 +360,7 @@ body.loading {
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Page sections
 
 section {
-	margin-top: 20px;
-/* test to reduce white space at top ADDED HF */
+	margin-top: 40px;
 	
 	@include mq(tabletp) {
 		margin-top: 50px;
@@ -374,6 +373,14 @@ section {
 	@include mq(laptop) {
 		margin-top: 80px;
 	}
+
+/* test to reduce white space at top ADDED HF */
+
+.single {
+    padding: 0;
+}
+
+/* test to reduce white space at top ADDED HF */
 
 			
 }
