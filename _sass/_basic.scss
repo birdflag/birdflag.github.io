@@ -360,8 +360,8 @@ body.loading {
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Page sections
 
 section {
-	margin-top: 40px;
-
+	margin-top: 20px;
+/* test to reduce white space at top ADDED HF */
 	
 	@include mq(tabletp) {
 		margin-top: 50px;
