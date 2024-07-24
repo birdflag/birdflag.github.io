@@ -18,6 +18,8 @@ featured_image: '/images/sentien.JPG'
 	<img src="/images/sign2.jpg">	
 	<img src="/images/wwn.png">
 	<img src="/images/bud_bloom_box2.jpg">	
+	<img src="/images/talmadge_bros.png">	
+
 	
 
 	
