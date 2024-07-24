@@ -6,7 +6,7 @@
 
 .intro {
 	margin-top: 0;
-	padding: 5px 0 0; /*reduced from 10 to 5*/
+	padding: 10px 0 0;
 	background: $background-alt-color;
 
 	@include mq(tabletp) {
@@ -51,20 +51,20 @@
 
 .single {
 	margin-top: 0;
-	padding: 5px 0; /*reduced from 20 ro 5*/
+	padding: 20px 0;
 	background: $background-alt-color;
 	min-height: 100vh;
 
 	@include mq(tabletp) {
-		padding: 40px 0;
+		padding: 20px 0; /*reduced 40 to 20*/
 	}
 
 	@include mq(tabletl) {
-		padding: 40px $grid-spacing;
+		padding: 20px $grid-spacing;
 	}
 
 	@include mq(laptop) {
-		padding: 60px $grid-spacing;
+		padding: 30px $grid-spacing;
 	}
 
 	h1, h2, h3, h4, h5, h6, p, ul, ol {
