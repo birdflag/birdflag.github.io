@@ -2,7 +2,7 @@
 title: 'Wine and Spirits'
 date: 2022-05-22 00:00:00
 description: Label design for wine and spirits
-featured_image: 'images/heliodorus2.jpeg'
+featured_image: 'images/prismatic_cocktail_trio.jpg'
 ---
 
 <div class="gallery" data-columns="1">
@@ -11,4 +11,5 @@ featured_image: 'images/heliodorus2.jpeg'
 	<img src="/images/Chardonnay_square.jpg">
 	<img src="/images/ancla.jpg">	
 	<img src="/images/heliodorus2.jpeg">
+	<img src="/images/prismatic_cocktail_trio.jpg">
 </div>
