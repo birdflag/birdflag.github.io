@@ -9,6 +9,7 @@ featured_image: '/images/venus.jpg'
 	<img src="/images/berntein.jpg">
 	<img src="/images/meridian_octopus.jpg">
 	<img src="/images/child_crow.jpg">
+	<img src="/images/cwasan.jpg">
 	<img src="/images/dragonfly.jpg">
 
 <div class="gallery" data-columns="3">
