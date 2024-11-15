@@ -10,7 +10,7 @@ featured_image: '/images/venus.jpg'
 	<img src="/images/teeshirt.jpg">
 	<img src="/images/windowseatbags1.jpg">
 	<img src="/images/venus.jpg">
-	<img src="/images/grace_glory.jpg">
+	<img src="/images/paperback-book_grace_glory.jpg">
 	<img src="/images/photo_collage_poppies-01.jpg">	
 	<img src="/images/glitch.JPG">
 		
