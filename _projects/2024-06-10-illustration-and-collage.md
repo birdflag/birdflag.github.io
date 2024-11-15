@@ -8,9 +8,10 @@ featured_image: '/images/venus.jpg'
 <div class="gallery" data-columns="3">
 	<img src="/images/text_parrots_gif.gif">
 	<img src="/images/teeshirt.jpg">
+	<img src="/images/churchs_year.jpg">
 	<img src="/images/windowseatbags1.jpg">
 	<img src="/images/venus.jpg">
-	<img src="/images/paperback-book_grace_glory.jpg">
+	<img src="/images/grace_glory.png">
 	<img src="/images/photo_collage_poppies-01.jpg">	
 	<img src="/images/glitch.JPG">
 		
