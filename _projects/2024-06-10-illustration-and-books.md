@@ -1,5 +1,5 @@
 ---
-title: 'Illustrations and Book Cover Design'
+title: 'Illustrations and Book Covers'
 date: 2021-09-10 00:00:00
 description: Illustrations and book cover design.
 featured_image: '/images/churchs_year.jpg'
