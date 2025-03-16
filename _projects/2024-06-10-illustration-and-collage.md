@@ -2,7 +2,7 @@
 title: 'Illustrations and Book Cover Design'
 date: 2021-09-10 00:00:00
 description: Illustrations and book cover design.
-featured_image: '/images/venus.jpg'
+featured_image: '/images/churchs_year.jpg'
 ---
 
 <div class="gallery" data-columns="3">

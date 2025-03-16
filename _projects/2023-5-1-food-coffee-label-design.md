@@ -2,7 +2,7 @@
 title: 'Consumable Goods'
 date: 2022-05-22 00:00:00
 description: Label and packaging design
-featured_image: 'images/JoyRide_coldbrew.webp'
+featured_image: 'images/dippsterz_tropical.jpg'
 ---
 
 <div class="gallery" data-columns="3">

@@ -147,14 +147,14 @@ font_settings:
     letter_spacing: 0
     line_height: 1.6
   p:
-    small_size: 10
+    small_size: 16
     medium_size: 18
     large_size: 20
     weight: 300
     letter_spacing: 0
     line_height: 1.6
   blockquote:
-    small_size: 15
+    small_size: 25
     medium_size: 35
     large_size: 45
     weight: 300

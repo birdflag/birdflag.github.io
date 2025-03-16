@@ -14,6 +14,6 @@ featured_image: '/images/hm_phone.jpg'
 	<img src="/images/cerise_site_mockup2.jpeg">
 	<img src="/images/society.JPG">
 	<img src="/images/alumni_design_show.jpg">
-	<img src="/images/Lapland_mockup.jpg">
+	
 
 </div>
