@@ -8,8 +8,7 @@ featured_image: 'images/freely-bottle.JPG'
 <div class="gallery" data-columns="3">
 	<img src="/images/dippsterz.png">
 	<img src="/images/sine_serum.png">
-	<img src="/images/freely-bottle.JPG">
-     	<img src="/images/dippsterz_trio.png">
+	<img src="/images/dippsterz_trio.png">
 	<img src="/images/serene_sage.jpg">
 	<img src="/images/basil.jpg">
 	<img src="/images/RedEye.webp">
