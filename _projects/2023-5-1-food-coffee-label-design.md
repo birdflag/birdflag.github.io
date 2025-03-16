@@ -2,12 +2,11 @@
 title: 'Consumable Goods'
 date: 2022-05-22 00:00:00
 description: Label and packaging design
-featured_image: 'images/sine_serum.png'
+featured_image: 'images/dippsterz_trio.png'
 ---
 
 <div class="gallery" data-columns="3">
 	<img src="/images/dippsterz.png">
-	<img src="/images/dippsterz_tropical.jpg">
 	<img src="/images/sine_serum.png">
 	<img src="/images/freely-bottle.JPG">
      	<img src="/images/JoyRide_coldbrew.webp">
