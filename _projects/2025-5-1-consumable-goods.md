@@ -11,6 +11,7 @@ featured_image: 'images/Trio_bettereats.jpg'
 	<img src="/images/dippsterz_trio.png">
 	<img src="/images/serene_sage.jpg">
 	<img src="/images/freely-bottle.JPG">
+	<img src="/images/Trio_bettereats.jpg">
 	<img src="/images/basil.jpg">
 	<img src="/images/RedEye.webp">
 	<img src="/images/bud_bloom_box2.jpg">	

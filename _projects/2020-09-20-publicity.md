@@ -2,7 +2,7 @@
 title: 'Print and Digital Publicity'
 date: 2020-09-17 00:00:00
 description: Print and digital publicity
-featured_image: '/images/hm_phone.jpg'
+featured_image: '/images/Firefly_poster_mockup.jpg'
 ---
 
 <div class="gallery" data-columns="4">
