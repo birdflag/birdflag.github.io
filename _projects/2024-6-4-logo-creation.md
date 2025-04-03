@@ -10,11 +10,9 @@ featured_image: '/images/le_carr_overprint.jpg'
 	<img src="/images/sentien.JPG">
 	<img src="/images/tide_logo.jpg">
 	<img src="/images/bwb_transparent.png">
-	<img src="/images/lonely.png">
 	<img src="/images/chigo.png">	
 	<img src="/images/freely-bottle.JPG">
 	<img src="/images/spark_transparent.png">
-	<img src="/images/sign2.jpg">	
 	<img src="/images/wwn.png">
 	<img src="/images/bud_bloom_box2.jpg">	
 	
