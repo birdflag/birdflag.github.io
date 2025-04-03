@@ -11,7 +11,7 @@ featured_image: '/images/hm_phone.jpg'
 	<img src="/images/Firefly_poster_mockup.jpg">
 	<img src="/images/kusama_banner.jpg">
 	<img src="/images/cerise_site_mockup2.jpeg">
-	<img src="/images/images/couch_poster.JPG">
+	<img src="/images/couch_poster.JPG">
 	<img src="/images/alumni_design_show.jpg">
 	
 
