@@ -68,9 +68,9 @@ color_settings:
   error_color: '#537e7b'
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css?family=Poppins:300,500" rel="stylesheet">'
-  title_font: '"Poppins"'
-  body_font: '"Poppins"'
+  font_embed: '<link href="https://fonts.googleapis.com/css?family=Lora:300,500" rel="stylesheet">'
+  title_font: '"Lora"'
+  body_font: '"Lora"'
   regular_weight: 300
   bold_weight: 500
   site_title:
