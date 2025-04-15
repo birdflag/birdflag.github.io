@@ -24,4 +24,4 @@ featured_image: '/images/Firefly_poster_mockup.jpg'
   <div class="gallery__item">
     <img src="/images/alumni_design_show.jpg" alt="Alumni Design Show Flyer">
   </div>
-</div
+
