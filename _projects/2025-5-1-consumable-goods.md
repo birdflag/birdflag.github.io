@@ -35,4 +35,4 @@ featured_image: 'images/Trio_bettereats.jpg'
   </div>
 </div>
 
-</div>
+
