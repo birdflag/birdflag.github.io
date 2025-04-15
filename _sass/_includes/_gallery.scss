@@ -13,10 +13,6 @@
     margin: 30px auto;
   }
 
-  @include mq(tabletl) {
-    // Mobile layout already correct
-  }
-
   @include mq(laptop) {
     margin: 40px auto;
   }
@@ -35,59 +31,35 @@
 
   img {
     width: 100%;
+    height: auto;
+    display: block;
   }
 }
 
-// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Grid
+// Pure CSS Grid layout — no floats or JS
 
 .gallery--grid {
+  display: grid;
+  gap: $grid-spacing;
 
-  .gallery__wrap {
-    margin-left: -$grid-spacing/2;
-    margin-right: -$grid-spacing/2;
+  @include mq(tabletp) {
+    grid-template-columns: 1fr; // 1 column on small screens
+  }
+
+  @include mq(tabletl) {
+    grid-template-columns: repeat(2, 1fr); // 2 columns on medium
+  }
+
+  @include mq(laptop) {
+    grid-template-columns: repeat(3, 1fr); // 3 columns on large screens
   }
 
   .gallery__item {
-    float: left;
-    width: 33.33%; /* 3 across for desktop */
-    padding: $grid-spacing/2;
+    padding: 0; // Remove old float padding
   }
 
   .gallery__item__link {
     display: block;
     cursor: zoom-in;
   }
-
-  &[data-columns="3"] {
-    .gallery__item {
-      width: 33.33%; /* Maintain 3 across for desktop */
-    }
-  }
-
-  // This sets 1 across on mobile (for smaller screens)
-  @include mq(tabletp) {
-    .gallery__item {
-      width: 100%; /* 1 image per row on mobile */
-    }
-  }
-
-  // Optional: You can adjust these widths for larger screen sizes like tablet and laptop
-  @include mq(laptop) {
-    .gallery__item {
-      width: 33.33%; /* 3 images across on laptop and larger screens */
-    }
-  }
 }
-
-.gallery[data-columns]::before {
-  content: attr(data-columns);
-  display: none; // it's just for JS, not visual
-}
-
-@media only screen and (max-width: 767px) {
-  .gallery[data-columns]::before {
-    content: "1"; // force 1 column on mobile
-  }
-}
-
-
