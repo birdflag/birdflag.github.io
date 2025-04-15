@@ -90,3 +90,30 @@
 		font-size: $grid-item-subtitle-large;
 	}
 }
+
+//HF added mobile stacking single tile
+
+/* Portfolio grid layout */
+.portfolio-wrap {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+
+.portfolio-item {
+  flex: 1 1 calc(50% - 1rem);
+  box-sizing: border-box;
+}
+
+.portfolio-item__image img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Responsive: Stack portfolio items on mobile */
+@media (max-width: 768px) {
+  .portfolio-item {
+    flex: 1 1 100%;
+  }
+}
