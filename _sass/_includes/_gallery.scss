@@ -79,3 +79,15 @@
   }
 }
 
+.gallery[data-columns]::before {
+  content: attr(data-columns);
+  display: none; // it's just for JS, not visual
+}
+
+@media only screen and (max-width: 767px) {
+  .gallery[data-columns]::before {
+    content: "1"; // force 1 column on mobile
+  }
+}
+
+
