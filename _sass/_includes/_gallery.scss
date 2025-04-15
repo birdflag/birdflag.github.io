@@ -36,26 +36,24 @@
   }
 }
 
-// Pure CSS Grid layout — no floats or JS
-
+// Flexbox layout for gallery
 .gallery--grid {
-  display: grid;
-  gap: $grid-spacing;
-
-  @include mq(tabletp) {
-    grid-template-columns: 1fr; // 1 column on small screens
-  }
-
-  @include mq(tabletl) {
-    grid-template-columns: repeat(2, 1fr); // 2 columns on medium
-  }
-
-  @include mq(laptop) {
-    grid-template-columns: repeat(3, 1fr); // 3 columns on large screens
-  }
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: -$grid-spacing / 2;
+  margin-right: -$grid-spacing / 2;
 
   .gallery__item {
-    padding: 0; // Remove old float padding
+    padding: $grid-spacing / 2;
+    width: 100%;
+
+    @include mq(tabletl) {
+      width: 50%;
+    }
+
+    @include mq(laptop) {
+      width: 33.33%;
+    }
   }
 
   .gallery__item__link {
