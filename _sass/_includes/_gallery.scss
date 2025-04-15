@@ -79,14 +79,20 @@
   }
 }
 
-.gallery[data-columns]::before {
-  content: attr(data-columns);
-  display: none; // it's just for JS, not visual
-}
+.gallery {
+  display: grid;
+  gap: 1.5rem; // adjust spacing between items
 
-@media only screen and (max-width: 767px) {
-  .gallery[data-columns]::before {
-    content: "1"; // force 1 column on mobile
+  @media (max-width: 767px) {
+    grid-template-columns: 1fr;
+  }
+
+  @media (min-width: 768px) and (max-width: 1023px) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @media (min-width: 1024px) {
+    grid-template-columns: repeat(3, 1fr);
   }
 }
 
