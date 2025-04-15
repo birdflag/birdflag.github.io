@@ -13,7 +13,9 @@
     margin: 30px auto;
   }
 
-  @include mq(tabletl) {}
+  @include mq(tabletl) {
+    // Mobile layout already correct
+  }
 
   @include mq(laptop) {
     margin: 40px auto;
@@ -30,122 +32,50 @@
 
 .gallery__item {
   position: relative;
-  width: 100%;
-  
+
   img {
     width: 100%;
-    height: auto;
-    display: block;
   }
 }
-
-
-// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Carousel
-
-.gallery--carousel {
-  .gallery__wrap {}
-
-  .gallery__item {}
-
-  .gallery__item__link {
-    display: block;
-    pointer-events: none;
-  }
-
-  .gallery__item__image {}
-
-  .owl-nav {
-    display: none;
-  }
-
-  .owl-dots {
-    margin-top: 20px;
-    text-align: center;
-
-    .owl-dot {
-      display: inline-block;
-      margin: 0 3px;
-      width: 12px;
-      height: 12px;
-      border: 0;
-      border-radius: 100%;
-      background: $text-light-color;
-      @include transition(all 0.2s ease-in-out);
-      cursor: pointer;
-      outline: none;
-
-      &.active {
-        background: $accent-color;
-      }
-    }
-  }
-}
-
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Grid
 
 .gallery--grid {
-  display: flex;
-  flex-wrap: wrap;
-  margin-left: -$grid-spacing / 2;
-  margin-right: -$grid-spacing / 2;
-  gap: $grid-spacing;
+
+  .gallery__wrap {
+    margin-left: -$grid-spacing/2;
+    margin-right: -$grid-spacing/2;
+  }
 
   .gallery__item {
-    padding: $grid-spacing / 2;
-    box-sizing: border-box;
+    float: left;
+    width: 33.33%; /* 3 across for desktop */
+    padding: $grid-spacing/2;
+  }
 
-    // Default (1 column for mobile)
-    width: 100%;
-
-    @include mq(tabletp) {
-      // 2 columns for tablets
-      width: 50%;
-    }
-
-    @include mq(laptop) {
-      // 3 columns for desktop
-      width: 33.33%;
-    }
-
-    img {
-      width: 100%;
-      height: auto;
-      display: block;
-    }
+  .gallery__item__link {
+    display: block;
+    cursor: zoom-in;
   }
 
   &[data-columns="3"] {
     .gallery__item {
-      @include mq(laptop) {
-        width: 33.33%;
-      }
+      width: 33.33%; /* Maintain 3 across for desktop */
     }
   }
 
-  &[data-columns="4"] {
+  // This sets 1 across on mobile (for smaller screens)
+  @include mq(tabletp) {
     .gallery__item {
-      @include mq(laptop) {
-        width: 25%;
-      }
+      width: 100%; /* 1 image per row on mobile */
     }
   }
 
-  &[data-columns="5"] {
+  // Optional: You can adjust these widths for larger screen sizes like tablet and laptop
+  @include mq(laptop) {
     .gallery__item {
-      @include mq(laptop) {
-        width: 20%;
-      }
-    }
-  }
-
-  &[data-columns="6"] {
-    .gallery__item {
-      @include mq(laptop) {
-        width: 16.66%;
-      }
+      width: 33.33%; /* 3 images across on laptop and larger screens */
     }
   }
 }
-
 

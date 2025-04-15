@@ -9,13 +9,29 @@ featured_image: '/images/shenandoah_tshirt.jpg'
 
 
 <div class="gallery" data-columns="3">
-	<img src="/images/bwb_logo.JPG">
-	<img src="/images/bwb_sign.jpg">
-	<img src="/images/bwb_comparison.JPG">
+  <div class="gallery__item">
+    <img src="/images/bwb_logo.JPG" alt="Blue Wheel Bicycles Logo Redesign">
+  </div>
+  <div class="gallery__item">
+    <img src="/images/bwb_sign.jpg" alt="Blue Wheel Bicycles Hanging Sign Mockup">
+  </div>
+  <div class="gallery__item">
+    <img src="/images/bwb_comparison.JPG" alt="Blue Wheel Bicycles Old and New Logo Comparison">
+  </div>
+</div>
+
 <div class="gallery" data-columns="3">
-	<img src="/images/shenandoah_joe_stamp_bag.jpg">
-	<img src="/images/shenandoah_tshirt.jpg">
-	<img src="/images/shenandoah_coffee_pouch.jpg">
-	<img src="/images/logo_comparison_shen.png">
+  <div class="gallery__item">
+    <img src="/images/shenandoah_joe_stamp_bag.jpg" alt="Shenandoah Joe Stamp Paper Bag">
+  </div>
+  <div class="gallery__item">
+    <img src="/images/shenandoah_tshirt.jpg" alt="Shenandoah Joe New Logo Tee">
+  </div>
+  <div class="gallery__item">
+    <img src="/images/shenandoah_coffee_pouch.jpg" alt="Shenandoah Joe Coffee Pouch">
+  </div>
+  <div class="gallery__item">
+    <img src="/images/logo_comparison_shen.png" alt="Shenandoah Joe Old and New Logo Comparison">
+  </div>
 </div>
-</div>
+

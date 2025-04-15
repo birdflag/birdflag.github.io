@@ -34,4 +34,3 @@ featured_image: '/images/churchs_year.jpg'
 
 		
 		
-</div>
