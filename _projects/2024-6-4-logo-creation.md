@@ -33,9 +33,3 @@ featured_image: '/images/bwb_sign.jpg'
   </div>
 </div>
 	
-
-	
-
-	
-	
-</div>
