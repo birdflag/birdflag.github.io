@@ -1,0 +1,7 @@
+<div class="gallery">
+  {% for image in include.images %}
+    <a href="{{ image }}" data-lightbox="project-gallery">
+      <img src="{{ image }}" alt="">
+    </a>
+  {% endfor %}
+</div>

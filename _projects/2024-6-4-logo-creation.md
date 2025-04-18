@@ -32,4 +32,7 @@ featured_image: '/images/bwb_sign.jpg'
     <img src="/images/bud_bloom_box2.jpg" alt="Bud Bloom Logo on Packaging">
   </div>
 </div>
+
+{% include gallery.html images=page.images %}
+
 	

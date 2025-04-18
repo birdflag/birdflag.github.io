@@ -36,3 +36,4 @@ featured_image: 'images/Trio_bettereats.jpg'
 </div>
 
 
+{% include gallery.html images=page.images %}

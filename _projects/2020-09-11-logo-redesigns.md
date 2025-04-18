@@ -35,3 +35,4 @@ featured_image: '/images/shenandoah_tshirt.jpg'
   </div>
 </div>
 
+{% include gallery.html images=page.images %}

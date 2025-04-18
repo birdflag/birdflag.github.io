@@ -25,3 +25,4 @@ featured_image: '/images/Firefly_poster_mockup.jpg'
     <img src="/images/alumni_design_show.jpg" alt="Alumni Design Show Flyer">
   </div>
 
+{% include gallery.html images=page.images %}
