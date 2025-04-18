@@ -33,6 +33,5 @@ featured_image: '/images/bwb_sign.jpg'
   </div>
 </div>
 
-{% include gallery.html images=page.images %}
 
 	
