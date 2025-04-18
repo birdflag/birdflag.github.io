@@ -3,8 +3,6 @@ title: 'Consumable Goods'
 date: 2022-05-22 00:00:00
 description: Label and packaging design
 featured_image: 'images/Trio_bettereats.jpg'
----
----
 images:
   - /images/dippsterz.png
   - /images/sine_serum.png
@@ -17,6 +15,9 @@ images:
   - /images/bud_bloom_box2.jpg
 ---
 
-# My Project Gallery
+# Consumable Goods: Label and Packaging Design
+
 
 {% include gallery.html images=page.images %}
+
+
