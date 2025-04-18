@@ -5,8 +5,8 @@
 // - - - - - - - - - - - - - - - - - -
 
 .gallery {
-  visibility: hidden;
-  position: relative;
+  column-count: 3;
+  column-gap: 1em;
   margin: 20px auto;
 
   @include mq(tabletp) {
@@ -22,42 +22,20 @@
   }
 }
 
-.gallery--on {
-  visibility: visible;
+.gallery img {
+  width: 100%;
+  margin-bottom: 1em;
+  display: block;
 }
 
-.gallery__item {
-  position: relative;
-
-  img {
-    width: 100%;
-    height: auto;
-    display: block;
+@media (max-width: 900px) {
+  .gallery {
+    column-count: 2;
   }
 }
 
-// Flexbox layout for gallery
-.gallery--grid {
-  display: flex;
-  flex-wrap: wrap;
-  margin-left: -$grid-spacing / 2;
-  margin-right: -$grid-spacing / 2;
-
-  .gallery__item {
-    padding: $grid-spacing / 2;
-    width: 100%;
-
-    @include mq(tabletl) {
-      width: 50%;
-    }
-
-    @include mq(laptop) {
-      width: 33.33%;
-    }
-  }
-
-  .gallery__item__link {
-    display: block;
-    cursor: zoom-in;
+@media (max-width: 600px) {
+  .gallery {
+    column-count: 1;
   }
 }
