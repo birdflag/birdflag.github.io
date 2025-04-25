@@ -10,4 +10,5 @@ description: About the designer
 <small> Contact me at hfogartydesign@gmail.com to talk, or use the Design Form at left to share your brand or project vision! 
 
 
+<img src="/images/crop_hadshot.JPG" width="450">
 
