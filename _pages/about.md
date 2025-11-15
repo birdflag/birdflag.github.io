@@ -10,5 +10,5 @@ description: About the designer
 <small> Contact me at hfogartydesign@gmail.com to talk, or use the Design Form at left to share your brand or project vision. 
 
 
-//<img src="/images/headshot_2.jpg" width="550">
+<!--<img src="/images/headshot_2.jpg" width="550">-->
 
