@@ -2,7 +2,7 @@
 title: 'Consumable Goods'
 date: 2022-05-22 00:00:00
 description: Label and packaging design
-featured_image: 'images/Trio_bettereats.jpg'
+featured_image: 'images/ohmy_cookie_skillet.jpg'
 ---
 
 <div class="gallery" data-columns="3">
@@ -22,7 +22,7 @@ featured_image: 'images/Trio_bettereats.jpg'
     <img src="/images/freely-bottle.JPG" alt="Freely Supplements Bottle">
   </div>
   <div class="gallery__item">
-    <img src="/images/Trio_bettereats.jpg" alt="Trio of Better Eats Stand Up Pouches">
+    <img src="/images/ohmy_cookie_skillet.jpg" alt="Cookie Mix Stand Up Pouches with Cookie Skillet and Ice Cream">
   </div>
   <div class="gallery__item">
     <img src="/images/basil.jpg" alt="Congolese-Inspired Packaging for African Basil Jar">
