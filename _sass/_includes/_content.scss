@@ -53,7 +53,8 @@
 	margin-top: 0;
 	padding: 20px 0;
 	background: $background-alt-color;
-	min-height: 100vh;
+/*	min-height: 100vh; */
+	/* LINE REMOVED HF TO FIX SCROLLBAR ISSUE */
 
 	@include mq(tabletp) {
 		padding: 10px 0; /*reduced 40 to 10*/
