@@ -19,10 +19,7 @@ featured_image: '/images/freely-bottle.JPG'
   <div class="gallery__item">
     <img src="/images/bwb_sign.jpg" alt="Blue Wheel Bicycles Logo on Street Sign">
   </div>
-  <div class="gallery__item">
-    <img src="/images/chigo.png" alt="Chigo Shoe Brand Logo">
-  </div>
-  <div class="gallery__item">
+   <div class="gallery__item">
     <img src="/images/freely-bottle.JPG" alt="Freely Vitamin Bottle">
   </div>
   <div class="gallery__item">
