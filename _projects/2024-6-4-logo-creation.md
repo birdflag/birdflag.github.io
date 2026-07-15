@@ -13,6 +13,9 @@ featured_image: '/images/freely-bottle.JPG'
   <div class="gallery__item">
     <img src="/images/tide_logo.jpg" alt="Beyond the Tide beachwear Logo">
   </div>
+	  <div class="gallery__item">
+    <img src="/images/sine_serum.png" alt="Sine Serum Boxes">
+  </div>
   <div class="gallery__item">
     <img src="/images/bwb_sign.jpg" alt="Blue Wheel Bicycles Logo on Street Sign">
   </div>
