@@ -23,7 +23,7 @@ featured_image: '/images/freely-bottle.JPG'
     <img src="/images/freely-bottle.JPG" alt="Freely Vitamin Bottle">
   </div>
   <div class="gallery__item">
-    <img src="/images/spark_transparent.png" alt="Spark Beauty Logo">
+    <img src="/images/spark_poster.png" alt="Spark Beauty Logo">
   </div>
   <div class="gallery__item">
     <img src="/images/wwn.png" alt="Whale Why Not Social Media Management Logo">
