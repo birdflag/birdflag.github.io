@@ -7,7 +7,7 @@ description: About the designer
 
 <small> I love working with folks who are putting something new out into the world, and I can help you find the right visual presence for your endeavor with handmade designs that communicate who you are and what you offer.
  
-<small> Contact me at hfogartydesign@gmail.com to talk, or use the Design Form at left to share your brand or project vision. 
+<small> Contact me at hfogartydesign@gmail.com to talk - I'd love to hear about your brand or project vision. 
 
 
 <!--<img src="/images/headshot_2.jpg" width="550">-->
