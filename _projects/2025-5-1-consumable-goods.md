@@ -10,9 +10,6 @@ featured_image: 'images/ohmy_cookie_skillet.jpg'
     <img src="/images/dippsterz.png" alt="Dippsterz Packaging">
   </div>
   <div class="gallery__item">
-    <img src="/images/sine_serum.png" alt="Sine Serum Boxes">
-  </div>
-  <div class="gallery__item">
     <img src="/images/dippsterz_trio.png" alt="Dippsterz Trio Snack Packs">
   </div>
   <div class="gallery__item">
