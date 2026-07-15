@@ -31,6 +31,9 @@ featured_image: '/images/freely-bottle.JPG'
   <div class="gallery__item">
     <img src="/images/wwn.png" alt="Whale Why Not Social Media Management Logo">
   </div>
+	  <div class="gallery__item">
+    <img src="/images/prismatic_liquors.png" alt="Prismatic Distilling Logo and Package Design">
+  </div>
   <div class="gallery__item">
     <img src="/images/bud_bloom_box2.jpg" alt="Bud Bloom Logo on Packaging">
   </div>
