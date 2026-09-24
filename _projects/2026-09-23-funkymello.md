@@ -2,9 +2,9 @@
 title: 'Dippsterz Packaging'
 date: 2020-09-17 00:00:00
 description: Illustration and Design for Dippsterz
-featured_image: '/images/shenandoah_tshirt.jpg'
+featured_image: '/images/dippsterz.png'
 ---
-#### Speculative brand redesigns for several Charlottesville brands we love. 
+#### Designing custom illustrations and packaging for Funky Mello Dippsterz snack trays and tray cases for display.
 ---
 
 
