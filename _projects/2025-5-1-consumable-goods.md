@@ -6,13 +6,7 @@ featured_image: 'images/ohmy_cookie_skillet.jpg'
 ---
 
 <div class="gallery" data-columns="3">
-  <div class="gallery__item">
-    <img src="/images/dippsterz.png" alt="Dippsterz Packaging">
-  </div>
-  <div class="gallery__item">
-    <img src="/images/dippsterz_trio.png" alt="Dippsterz Trio Snack Packs">
-  </div>
-  <div class="gallery__item">
+   <div class="gallery__item">
     <img src="/images/serene_sage.jpg" alt="Serene Sage Tea Blend Stand Up Pouches">
   </div>
   <div class="gallery__item">
