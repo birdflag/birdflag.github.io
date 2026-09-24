@@ -1,5 +1,5 @@
 ---
-title: 'Wine and Spirit Label Design'
+title: 'Wine and Spirits'
 date: 2026-09-24 00:00:00
 description: Label design for wine and spirits
 featured_image: '/images/trio_final_limoncello.jpg'
