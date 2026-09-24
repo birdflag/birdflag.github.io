@@ -10,13 +10,16 @@ featured_image: '/images/shenandoah_tshirt.jpg'
 
 <div class="gallery" data-columns="3">
   <div class="gallery__item">
-    <img src="/images/bwb_logo.JPG" alt="Blue Wheel Bicycles Logo Redesign">
+    <img src="/images/dippsterz.png" alt="Dippsterz Packaging">
   </div>
   <div class="gallery__item">
-    <img src="/images/bwb_sign.jpg" alt="Blue Wheel Bicycles Hanging Sign Mockup">
+    <img src="/images/dippsterz_trio.png" alt="Dippsterz Trio Snack Packs">
   </div>
   <div class="gallery__item">
-    <img src="/images/bwb_comparison.JPG" alt="Blue Wheel Bicycles Old and New Logo Comparison">
+    <img src="/images/caramel_apple_dippsterz.jpg">
+  </div>
+   <div class="gallery__item">
+    <img src="/images/tropical_dippsterz.jpg">
   </div>
 </div>
 
@@ -32,9 +35,6 @@ featured_image: '/images/shenandoah_tshirt.jpg'
   <div class="gallery__item">
     <img src="/images/011593011-1.jpeg">
   </div>
-  <div class="gallery__item">
-    <img src="/images/logo_comparison_shen.png" alt="Shenandoah Joe Old and New Logo Comparison">
-  </div>
-</div>
+
 
 
