@@ -1,7 +1,7 @@
 ---
-title: 'Wine and Spirits'
+title: 'Beverage'
 date: 2026-09-24 00:00:00
-description: Label design for wine and spirits
+description: Label design for wine, spirits, coffee
 featured_image: '/images/trio_final_limoncello.jpg'
 ---
 
@@ -17,6 +17,8 @@ featured_image: '/images/trio_final_limoncello.jpg'
   </div>
   <div class="gallery__item">
     <img src="/images/prismatic_liquors.png" alt="Prismatic liquor suite of designs">
+  </div> <div class="gallery__item">
+    <img src="/images/JoyRide_coldbrew.jpeg" alt="Cold brew coffee design">
   </div>
   <div class="gallery__item">
     <img src="/images/trio_final_limoncello.jpg" alt="Prismatic canned cocktail designs">
