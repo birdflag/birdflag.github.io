@@ -17,12 +17,13 @@ description: About the designer
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  gap: 2.5rem;
+  gap: clamp(2.5rem, 4vw, 5rem);
   margin-top: 2rem;
+  max-width: 1400px;
 }
 .bio-photo {
-  width: 240px;
-  height: 240px;
+  width: clamp(240px, 20vw, 380px);
+  height: clamp(240px, 20vw, 380px);
   object-fit: cover;
   border-radius: 6px;
   flex-shrink: 0;
@@ -34,7 +35,7 @@ description: About the designer
 .bio-text p {
   margin-bottom: 1.2em;
   line-height: 1.6;
-  font-size: 0.95rem;
+  font-size: clamp(0.95rem, 1.1vw, 1.3rem);
 }
 @media (max-width: 520px) {
   .bio-wrap {
