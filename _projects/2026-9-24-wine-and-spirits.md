@@ -10,7 +10,7 @@ featured_image: '/images/trio_final_limoncello.jpg'
     <img src="/images/ancla.jpg" alt="Ancla tequila bottle design">
   </div>
   <div class="gallery__item">
-    <img src="/images/chardonnay_square.jpg" alt="Giacomo Lucien wine label design">
+    <img src="/images/GL_chardonnay.jpg" alt="Giacomo Lucien wine label design">
   </div>
   <div class="gallery__item">
     <img src="/images/wine-sauv2.JPG" alt="Heliodorus wine label design">
