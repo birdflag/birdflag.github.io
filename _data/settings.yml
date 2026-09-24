@@ -13,9 +13,7 @@ menu_settings:
       url: '/'
     - title: 'About'
       url: '/about'
-    // - title: 'Design Form'
-    //  url: 'https://birdflag.azurewebsites.net/'
-
+   
 grid_settings:
   overlay_opacity: 0.8
   grid_spacing: 20
