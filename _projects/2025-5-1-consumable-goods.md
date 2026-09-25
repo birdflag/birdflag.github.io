@@ -27,7 +27,6 @@ featured_image: 'images/ohmy_cookie_skillet.jpg'
    <div class="gallery__item">
     <img src="/images/gingerbread.jpg" alt="Tea Pouch">
   </div>
-   </div>
    <div class="gallery__item">
     <img src="/images/poeticpeach.jpg" alt="Tea Pouch">
   </div>
