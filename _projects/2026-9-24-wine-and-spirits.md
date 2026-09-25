@@ -1,5 +1,5 @@
 ---
-title: 'Beverage'
+title: 'Drink Packaging'
 date: 2026-09-24 00:00:00
 description: Label design for wine, spirits, coffee
 featured_image: '/images/trio_final_limoncello.jpg'
