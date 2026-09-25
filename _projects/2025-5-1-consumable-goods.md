@@ -7,9 +7,6 @@ featured_image: 'images/ohmy_cookie_skillet.jpg'
 
 <div class="gallery" data-columns="3">
    <div class="gallery__item">
-    <img src="/images/serene_sage.jpg" alt="Serene Sage Tea Blend Stand Up Pouches">
-  </div>
-  <div class="gallery__item">
     <img src="/images/freely-bottle.JPG" alt="Freely Supplements Bottle">
   </div>
   <div class="gallery__item">
@@ -23,6 +20,16 @@ featured_image: 'images/ohmy_cookie_skillet.jpg'
   </div>
   <div class="gallery__item">
     <img src="/images/bud_bloom_box2.jpg" alt="Bud Bloom Logo and Package Design for Flower Delivery">
+  </div>
+     <div class="gallery__item">
+    <img src="/images/caramelcabin.jpg" alt="Tea Pouch">
+  </div>
+   <div class="gallery__item">
+    <img src="/images/gingerbread.jpg" alt="Tea Pouch">
+  </div>
+   </div>
+   <div class="gallery__item">
+    <img src="/images/poeticpeach.jpg" alt="Tea Pouch">
   </div>
 </div>
 
