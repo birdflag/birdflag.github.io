@@ -25,7 +25,7 @@ featured_image: '/images/shenandoah_tshirt.jpg'
     <img src="/images/shenandoah_joe_stamp_bag.jpg" alt="Shenandoah Joe Stamp Paper Bag">
   </div>
   <div class="gallery__item">
-    <img src="/images/shenandoah_tshirt.jpg" alt="Shenandoah Joe New Logo Tee">
+    <img src="/images/shenandoah_tshirt.jpg" alt="Shenandoah Joe Logo Tee">
   </div>
   <div class="gallery__item">
     <img src="/images/shenandoah_coffee_pouch.jpg" alt="Shenandoah Joe Coffee Pouch">
