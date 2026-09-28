@@ -8,7 +8,7 @@ featured_image: '/images/sentien.JPG'
 
 <div class="gallery" data-columns="4">
     <div class="gallery__item">
-    <img src="/images/tide_logo.jpg" alt="Beyond the Tide beachwear Logo">
+    <img src="/images/shenandoah_tshirt.jpg" alt="Shenandoah Joe Logo Tee">
   </div>
 	  <div class="gallery__item">
     <img src="/images/sine_serum.png" alt="Sine Serum Boxes">
