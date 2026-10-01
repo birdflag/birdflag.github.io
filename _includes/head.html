@@ -1,0 +1,37 @@
+{% assign meta_description = page.description | default: site.description | strip_html | strip_newlines %}
+{% capture meta_title %}{% if page.url == '/' %}{{ site.title }} — Brand & packaging design{% else %}{{ page.title }} — {{ site.title }}{% endif %}{% endcapture %}
+{% assign social_image = page.featured_image | default: site.social_image %}
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <meta name="theme-color" content="#FFFFFF">
+
+  <title>{{ meta_title | strip | escape }}</title>
+  <meta name="description" content="{{ meta_description | escape }}">
+
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="{{ site.title | escape }}">
+  <meta property="og:title" content="{{ meta_title | strip | escape }}">
+  <meta property="og:description" content="{{ meta_description | escape }}">
+
+  {% if site.url and site.url != "" %}
+    <link rel="canonical" href="{{ page.url | absolute_url }}">
+    <meta property="og:url" content="{{ page.url | absolute_url }}">
+    {% if social_image %}
+      <meta property="og:image" content="{{ social_image | absolute_url }}">
+      <meta name="twitter:card" content="summary_large_image">
+    {% endif %}
+  {% endif %}
+
+  {% if page.noindex %}
+    <meta name="robots" content="noindex">
+  {% endif %}
+
+  <link
+  rel="icon"
+  href="{{ '/assets/images/birdflag-favicon.png' | relative_url }}"
+>
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+{% include google-analytics.html %}
+</head>

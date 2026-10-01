@@ -1,25 +1,17 @@
 ---
 layout: default
 ---
+<section class="shell page-section">
+  <header class="page-header">
+    <p class="eyebrow">{{ page.eyebrow | default: site.title | escape }}</p>
+    <h1>{{ page.title | escape }}</h1>
 
-<section class="intro">
+    {% if page.intro %}
+      <p class="lede">{{ page.intro | escape }}{% if page.intro_email %} <a class="contact-email" href="mailto:{{ site.email | escape }}">{{ site.email | escape }}</a>.{% endif %}</p>
+    {% endif %}
+  </header>
 
-	<div class="wrap">
-
-		<h1>{{ page.title }}</h1>
-		<p>{{ page.subtitle }}</p>
-		
-	</div>
-
-</section>
-
-<section class="single">
-
-
-	<div class="wrap">
-
-		{{ page.content }}
-
-	</div>
-
+  <div class="prose">
+    {{ content }}
+  </div>
 </section>

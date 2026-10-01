@@ -1,0 +1,27 @@
+---
+layout: default
+---
+<section class="shell page-section">
+  <div class="about-grid">
+    <figure class="about-photo">
+      {% include image.html
+        src=page.photo
+        alt="Hannah Fogarty"
+        eager=true
+      %}
+    </figure>
+
+    <div class="about-copy">
+      <p class="eyebrow">About me</p>
+      <h1>{{ page.title | escape }}</h1>
+
+      <div class="prose">
+        {{ content }}
+      </div>
+
+      <a class="button" href="{{ '/contact/' | relative_url }}">
+        Start a conversation <span aria-hidden="true">→</span>
+      </a>
+    </div>
+  </div>
+</section>

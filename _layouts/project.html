@@ -1,24 +1,96 @@
 ---
 layout: default
 ---
+<article class="shell project">
+  <header class="project-header">
+    <a class="back-link" href="{{ '/' | relative_url }}#work">
+      <span aria-hidden="true">←</span> All work
+    </a>
 
-<section class="intro">
+    <p class="eyebrow">
+      {{ page.category | escape }}
+      {% if page.project_type %} · {{ page.project_type | escape }}{% endif %}
+    </p>
 
-	<div class="wrap">
+    <h1>{{ page.title | escape }}</h1>
 
-		<h1>{{ page.title }}</h1>
-		<p>{{ page.subtitle }}</p>
+    {% if page.show_description != false and page.description %}
+      <p class="lede">{{ page.description | escape }}</p>
+    {% endif %}
+  </header>
 
-	</div>
+  <div class="project-overview">
+    <section class="project-summary" aria-labelledby="overview-title">
+      <h2 class="eyebrow" id="overview-title">{{ page.overview_title | default: 'About this project' | escape }}</h2>
+      <div class="prose">
+        {{ content }}
+      </div>
+    </section>
 
-</section>
+    <dl class="project-facts">
+      {% if page.services %}
+        <div>
+          <dt>Scope</dt>
+          <dd>{{ page.services | join: ', ' | escape }}</dd>
+        </div>
+      {% endif %}
 
-<section class="single">
+      {% if page.tools %}
+        <div>
+          <dt>Design tools</dt>
+          <dd>{{ page.tools | join: ', ' | escape }}</dd>
+        </div>
+      {% endif %}
+    </dl>
+  </div>
 
-	<div class="wrap">
+  <section aria-label="Project images">
+    <div class="project-gallery">
+      {% for shot in page.gallery %}
+        {% assign full_image = shot.full_src | default: shot.src %}
+        <figure class="gallery-item{% if shot.wide %} gallery-item--wide{% endif %}">
+          <a
+            class="gallery-link"
+            href="{{ full_image | relative_url }}"
+            data-lightbox
+            data-alt="{{ shot.alt | escape }}"
+            data-caption="{{ shot.caption | default: shot.alt | escape }}"
+            aria-label="Enlarge: {{ shot.alt | escape }}"
+          >
+            {% include image.html
+              src=shot.src
+              alt=shot.alt
+              width=shot.width
+              height=shot.height
+              eager=forloop.first
+            %}
+            <span class="zoom-label" aria-hidden="true">View larger →</span>
+          </a>
 
-		{{ page.content }}
+          {% if shot.caption %}
+            <figcaption>{{ shot.caption | escape }}</figcaption>
+          {% endif %}
+        </figure>
+      {% endfor %}
+    </div>
+  </section>
 
-	</div>
+  {% assign ordered_projects = site.projects | sort: 'order' %}
+  {% assign next_position = 0 %}
+  {% for item in ordered_projects %}
+    {% if item.url == page.url %}
+      {% assign next_position = forloop.index %}
+    {% endif %}
+  {% endfor %}
+  {% assign next_project = ordered_projects[next_position] | default: ordered_projects.first %}
 
-</section>
+  {% if next_project and ordered_projects.size > 1 %}
+    <a class="project-next" href="{{ next_project.url | relative_url }}">
+      <div>
+        <p class="eyebrow">Next project</p>
+        <h2>{{ next_project.title | escape }}</h2>
+      </div>
+      <span class="project-next__arrow" aria-hidden="true">→</span>
+    </a>
+  {% endif %}
+</article>

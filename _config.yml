@@ -1,59 +1,50 @@
-site: Hannah Fogarty
+title: Hannah Fogarty
+description: Independent graphic designer in San Francisco, specializing in brand identity and packaging for food, drink, and other good things.
+email: hfogartydesign@gmail.com
+location: San Francisco
+lang: en
 
-url: 
-baseurl: 
+# Leave empty for a root-level local preview.
+# Set before publishing.
+url: ""
+baseurl: ""
 
-collections:
-  pages:
-    output: true
-    permalink: /:name
-  posts:
-    output: true
-    permalink: /blog/:slug
-  projects:
-    output: true
-    permalink: /project/:slug
-
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: "default"
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-  -
-    scope:
-      path: ""
-      type: "projects"
-    values:
-      layout: "project"
+social_image: /images/Dessertbutterpouches_mockup.jpg
 
 markdown: kramdown
+highlighter: rouge
+strict_front_matter: true
 
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
+collections:
+  projects:
+    output: true
+    permalink: /work/:name/
 
-sass:
-  style: compressed
+include:
+  - _pages
 
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
+defaults:
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: project
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
 
-paginate: 6
-paginate_path: "/blog/page:num/"
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - unpack_files.py
+  - unpack_v5.py
+  - portfolio.bundle.txt
+  - portfolio-v5.bundle.txt
+  - vendor
+  - .github
 
-# Google Analytics
-google_analytics: G-91PW6GB8ZT
+# Google Analytics 4
+google_analytics: "G-91PW6GB8ZT"

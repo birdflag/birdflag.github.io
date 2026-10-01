@@ -1,19 +1,14 @@
 ---
-layout: default
-title: Page Not Found
-description: Sorry – the page your looking for doesn't exist.
-featured_image: /images/social.jpg
+layout: page
+title: Page not found
+eyebrow: A small detour
+permalink: /404.html
+description: This page could not be found.
+noindex: true
+intro: This address may have changed, but the work is still here.
 ---
-
-<section class="single">
-
-	<div class="wrap">
-
-		<h1>Page not found.</h1>
-		<p class="hero__text editable">Sorry – the page your looking for doesn't exist.</p>
-		<p class="hero__text editable">Perhaps you typed the URL incorrectly, or it may have moved.</p>
-		<p><a href="/" class="button button--large">Back To Home</a></p>
-
-	</div>
-
-</section>
+<p>
+  <a class="button" href="{{ '/' | relative_url }}#work">
+    Back to the portfolio <span aria-hidden="true">→</span>
+  </a>
+</p>

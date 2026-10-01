@@ -1,8 +1,17 @@
 ---
-title: Design Form
-subtitle: 
-description: Index is a minimal, fixed sidebar grid portfolio Jekyll theme.
-featured_image: /images/birdflag_logo2-03.png
+layout: page
+title: "Let’s talk."
+eyebrow: Start a conversation
+permalink: /contact/
+description: Contact Hannah Fogarty about brand identity, packaging design, and illustration projects.
+intro: "Have a new brand, a packaging project, or an idea you’d like to explore? I’d love to hear about it at"
+intro_email: true
 ---
 
-I'm available to help make your creative vision come to life. Email me at <a href="mailto:hfogartydesign@gmail.com">hfogartydesign@gmail.com</a>
+A simple email is the best way to start. Tell me a little about:
+
+- Your brand or business
+- What you’re making and what kind of design help you need
+- Your timing and any important launch dates
+
+Based in San Francisco.

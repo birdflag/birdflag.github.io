@@ -1,0 +1,12 @@
+{% assign image_path = include.src | default: '/assets/images/placeholder.svg' %}
+<img
+  src="{{ image_path | relative_url }}"
+  alt="{{ include.alt | default: '' | escape }}"
+  {% if include.class %}class="{{ include.class | escape }}"{% endif %}
+  {% if include.width %}width="{{ include.width | escape }}"{% endif %}
+  {% if include.height %}height="{{ include.height | escape }}"{% endif %}
+  loading="{% if include.eager %}eager{% else %}lazy{% endif %}"
+  {% if include.eager %}fetchpriority="high"{% endif %}
+  decoding="async"
+  data-fallback-src="{{ '/assets/images/placeholder.svg' | relative_url }}"
+>

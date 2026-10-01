@@ -1,0 +1,21 @@
+<article class="work-card">
+  <a class="work-card__link" href="{{ include.project.url | relative_url }}">
+    <div class="work-card__media">
+      {% include image.html
+        src=include.project.featured_image
+        alt=include.project.featured_alt
+        class="work-card__image"
+        eager=include.eager
+      %}
+    </div>
+
+    <div class="work-card__meta">
+      <div>
+        <p class="work-card__category">{{ include.project.category | escape }}</p>
+        <h3>{{ include.project.title | escape }}</h3>
+      </div>
+
+      <span class="work-card__index" aria-hidden="true">{% if include.number < 10 %}0{% endif %}{{ include.number }}</span>
+    </div>
+  </a>
+</article>

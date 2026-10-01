@@ -1,0 +1,96 @@
+<dialog
+  class="image-viewer"
+  id="image-viewer"
+  aria-labelledby="viewer-title"
+  aria-describedby="viewer-help"
+  data-fallback-src="{{ '/assets/images/placeholder.svg' | relative_url }}"
+>
+  <p class="sr-only" id="viewer-help">
+    Use the left and right arrow keys to browse in Fit view.
+    The 100% button switches large images to a scrollable original-size view.
+    In that view, use the arrow keys to scroll the focused artwork.
+    Press Escape to close.
+  </p>
+
+  <div class="viewer__toolbar">
+    <h2 class="viewer__title" id="viewer-title">{{ page.title | escape }}</h2>
+
+    <form method="dialog">
+      <button class="viewer-button" type="submit" autofocus aria-label="Close image viewer">
+        Close <span aria-hidden="true">×</span>
+      </button>
+    </form>
+  </div>
+
+  <figure class="viewer__figure" id="viewer-figure">
+    <div
+      class="viewer__stage"
+      id="viewer-stage"
+      role="region"
+      aria-label="Project artwork"
+      tabindex="-1"
+    >
+      <div class="viewer__canvas" id="viewer-canvas">
+        <img
+          class="viewer__image"
+          id="viewer-image"
+          src="{{ '/assets/images/placeholder.svg' | relative_url }}"
+          alt=""
+          decoding="async"
+          draggable="false"
+          hidden
+        >
+      </div>
+
+      <p class="viewer__state" id="viewer-state" role="status" aria-live="polite" hidden></p>
+    </div>
+
+    <figcaption class="viewer__caption" id="viewer-caption" tabindex="-1"></figcaption>
+  </figure>
+
+  <div class="viewer__footer">
+    <div class="viewer__nav">
+      <button
+        class="viewer-button"
+        id="viewer-previous"
+        type="button"
+        aria-label="Previous image"
+        aria-controls="viewer-image"
+      >←</button>
+
+      <p class="viewer__count" id="viewer-count" role="status" aria-live="polite"></p>
+
+      <button
+        class="viewer-button"
+        id="viewer-next"
+        type="button"
+        aria-label="Next image"
+        aria-controls="viewer-image"
+      >→</button>
+    </div>
+
+    <p class="viewer__scale" id="viewer-scale"></p>
+
+    <div class="viewer__actions">
+      <button
+        class="viewer-button"
+        id="viewer-zoom"
+        type="button"
+        aria-label="Toggle original-size view"
+        aria-pressed="false"
+        aria-controls="viewer-stage"
+        title="Original-size view; scroll to explore"
+        disabled
+      >100%</button>
+
+      <a
+        class="viewer-button"
+        id="viewer-original"
+        href="{{ '/assets/images/placeholder.svg' | relative_url }}"
+        target="_blank"
+        rel="noopener noreferrer"
+        aria-label="Open the original image in a new tab"
+      >Original <span aria-hidden="true">→</span></a>
+    </div>
+  </div>
+</dialog>

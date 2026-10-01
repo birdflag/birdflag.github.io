@@ -1,37 +1,37 @@
 ---
 layout: default
-title: Hannah Fogarty Design
-description: Hannah Fogarty Design Portfolio
-featured_image: /images/bf22.png
+title: Brand identity and packaging design
+description: Hannah Fogarty is an independent graphic designer in San Francisco, creating distinctive brand identities, packaging, and illustrations.
 ---
+{% assign projects = site.projects | sort: 'order' %}
 
-<section class="portfolio">
+<div class="shell folio">
+  <section class="folio-intro" aria-labelledby="intro-title">
+    <div class="intro-heading">
+      <p class="eyebrow">Independent designer · {{ site.location | escape }}</p>
+      <h1 id="intro-title">Brands that<br><em>take flight.</em></h1>
+    </div>
 
-	<div class="content-wrap portfolio-wrap">
+    <div class="intro-copy">
+      <p>I’m Hannah Fogarty. I create brand identities and packaging for food, drink, and other good things.</p>
+    </div>
+  </section>
 
-		{% for project in site.projects reversed %}
+  <section class="work-section" id="work" aria-labelledby="work-title">
+    <h2 class="sr-only" id="work-title">Portfolio projects</h2>
 
-		<div class="portfolio-item">
+    <div class="work-grid" id="project-grid">
+      {% for project in projects %}
+        {% include project-card.html
+          project=project
+          number=forloop.index
+          eager=forloop.first
+        %}
+      {% endfor %}
+    </div>
 
-			<a class="portfolio-item__link" href="{{ project.url | relative_url }}">
-
-				<div class="portfolio-item__image">
-					<img src="{{ project.featured_image | relative_url }}" alt="{{ project.title }}">
-				</div>
-
-				<div class="portfolio-item__content">
-					<div class="portfolio-item__info">
-						<h2 class="portfolio-item__title">{{ project.title }}</h2>
-						<p class="portfolio-item__subtitle">{{ project.subtitle }}</p>
-					</div>
-				</div>
-
-			</a>
-
-		</div>
-
-		{% endfor %}
-
-	</div>
-
-</section>
+    {% if projects.size == 0 %}
+      <p class="empty-state">No projects to show yet.</p>
+    {% endif %}
+  </section>
+</div>
