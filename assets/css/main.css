@@ -7,6 +7,10 @@
   --gutter: clamp(1.1rem, 4vw, 4.5rem);
   --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
   --serif: Georgia, "Times New Roman", serif;
+
+  /* Shared by the header logo and the homepage grid so they stay aligned. */
+  --folio-gap: clamp(2.5rem, 5vw, 5rem);
+  --left-col: calc((100% - var(--folio-gap)) * 0.78 / 2.78);
 }
 
 *,
@@ -179,24 +183,27 @@ img {
   padding-block: 1.15rem;
 }
 
+/*
+ * The brand block matches the width of the homepage's left column.
+ * --left-col resolves against the header's width, which should be the
+ * same .shell width the .folio grid uses.
+ */
 .brand {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.8rem;
+  display: block;
+  flex: 0 0 auto;
+  width: var(--left-col);
+  min-width: 240px;
 }
 
 .brand-logo {
   display: block;
-  flex: 0 0 auto;
-  width: auto;
-  height: 64px;
-  max-width: 200px;
+  width: 100%;
+  height: auto;
+  max-width: none;
   object-fit: contain;
   border-radius: 0;
   background: transparent;
 }
-
-
 
 .brand-name {
   font-size: 1rem;
@@ -229,7 +236,7 @@ img {
   display: grid;
   grid-template-columns: minmax(240px, 0.78fr) minmax(0, 2fr);
   align-items: start;
-  gap: clamp(2.5rem, 5vw, 5rem);
+  gap: var(--folio-gap);
   padding-block: clamp(2.75rem, 4.5vw, 4.75rem) clamp(4rem, 7vw, 7rem);
 }
 
@@ -841,6 +848,18 @@ img {
 /* Responsive composition */
 
 @media (max-width: 1120px) {
+  /* Hero stacks to one column, so return the logo to its compact size. */
+  .brand {
+    width: auto;
+    min-width: 0;
+  }
+
+  .brand-logo {
+    width: auto;
+    height: 44px;
+    max-width: 120px;
+  }
+
   .folio {
     grid-template-columns: 1fr;
     gap: 2.75rem;
