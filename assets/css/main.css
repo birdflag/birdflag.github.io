@@ -189,12 +189,14 @@ img {
   display: block;
   flex: 0 0 auto;
   width: auto;
-  height: 44px;
-  max-width: 120px;
+  height: 64px;
+  max-width: 200px;
   object-fit: contain;
   border-radius: 0;
   background: transparent;
 }
+
+
 
 .brand-name {
   font-size: 1rem;
