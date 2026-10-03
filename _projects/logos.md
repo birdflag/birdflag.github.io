@@ -4,9 +4,9 @@ order: 5
 category: Brand identity
 description: Selected logos and the places they live.
 show_description: false
-overview_title: "Selected logos and spec rebrands across various industries."
+overview_title: "About this project"
 featured_image: /images/sine_serum.png
-featured_alt: Sentien security firm logo
+featured_alt: Sine Beauty logo on cream and white boxes.
 services: [Logo design, Brand applications]
 gallery:
   - src: /images/sentien.JPG
@@ -27,4 +27,4 @@ gallery:
 
 ---
 
-A selection of logos and brand marks, shown across signage, packaging, apparel, and other applications.
+A selection of logos and brand marks, client and personal projects.
