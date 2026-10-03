@@ -24,9 +24,7 @@ gallery:
     alt: Spark Beauty logo on a poster
   - src: /images/prismatic_liquors.png
     alt: Prismatic Distilling logo and package design
-  - src: /images/bud_bloom_box2.jpg
-    alt: Bud Bloom logo on packaging
-    wide: true
+
 ---
 
 A selection of logos and brand marks, shown across signage, packaging, apparel, and other applications.
