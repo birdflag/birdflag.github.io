@@ -1,8 +1,8 @@
 ---
 title: Beam Queen Apparel
 order: 6
-category: Design for Apparel
-description: Bespoke designs for Beam Queen Boot Camp merchandise.
+category: Design for apparel
+description:
 featured_image: /images/BQcresthoodie.jpg
 featured_alt: Model seen from behind in pink hoodie with crest
 services: [Brand designs for merchandise]
@@ -21,4 +21,4 @@ gallery:
 
 ---
 
-A collection of designs for Beam Queen Boot Camp, a traveling gymnastics masterclass and athletic community.
+A collection of designs for Beam Queen Boot Camp, a traveling gymnastics masterclass and athletic community. The brief was to create a preppy and sleek collection of crests and images for the Fit & Fire Athletic Club, the concept for the 2025 merchandise collection.
