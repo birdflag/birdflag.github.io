@@ -5,7 +5,7 @@ category: Brand identity
 description: Selected logos and the places they live.
 show_description: false
 overview_title: "Selected logos and spec rebrands across various industries."
-featured_image: /images/sentien.JPG
+featured_image: /images/sine_serum.png
 featured_alt: Sentien security firm logo
 services: [Logo design, Brand applications]
 gallery:
