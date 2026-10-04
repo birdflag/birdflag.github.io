@@ -9,13 +9,13 @@ featured_image: /images/sine_serum.png
 featured_alt: Sine Beauty logo on cream and white boxes.
 services: [Logo design, Brand applications]
 gallery:
-  - src: /images/sentien.JPG
-    alt: Sentien security firm logo
-    wide: true
-  - src: /images/shenandoah_tshirt.jpg
-    alt: Shenandoah Joe logo on a T-shirt
   - src: /images/sine_serum.png
     alt: Sine Serum branded packaging
+    wide: true
+  - src: /images/sentien.JPG
+    alt: Sentien security firm logo
+  - src: /images/shenandoah_tshirt.jpg
+    alt: Shenandoah Joe logo on a T-shirt
   - src: /images/bwb_sign.jpg
     alt: Blue Wheel Bicycles logo on a street sign
   - src: /images/freely-bottle.JPG
