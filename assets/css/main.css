@@ -189,8 +189,8 @@ img {
   flex: 0 0 auto;
   align-items: center;
   gap: 0.8rem;
-  /* Still tracks the left column, but never gets bigger than 140px or smaller than 110px. */
-  width: clamp(110px, calc(var(--left-col) * var(--logo-share)), 140px);
+  /* Still tracks the left column, but never gets bigger than 110px or smaller than 72px. */
+  width: clamp(72px, calc(var(--left-col) * var(--logo-share)), 110px);
   min-width: 0;
 }
 
@@ -866,11 +866,11 @@ img {
     min-width: 0;
   }
 
-  .brand-logo {
-    width: auto;
-    height: 56px;
-    max-width: 170px;
-  }
+ .brand-logo {
+  width: auto;
+  height: 40px;
+  max-width: 100px;
+}
 
   .folio {
     grid-template-columns: 1fr;
