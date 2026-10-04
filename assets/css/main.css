@@ -189,8 +189,8 @@ img {
   flex: 0 0 auto;
   align-items: center;
   gap: 0.8rem;
-  width: calc(var(--left-col) * var(--logo-share));
-  min-width: calc(240px * var(--logo-share));
+  width: clamp(110px, calc(var(--left-col) * var(--logo-share)), 170px);
+  min-width: 0;
 }
 
 .brand-logo {
