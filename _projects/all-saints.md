@@ -15,8 +15,12 @@ gallery:
     alt: All Saints Anglican Church brand guidelines
   - src: /images/ASAC_landingpage.jpg
     alt: All Saints Anglican Church website landing page
+  - src: /images/churchs_year.jpg
+    alt: The Church's Year book design
+  - src: /images/grace_glory.png
+    alt: Grace and Glory book design
 ---
 
 Brand identity for All Saints Anglican Church in Charlottesville, Virginia, covering the logo, colors, typography, and usage guidance.
 
-The wider scope also includes layout and cover design for books published by the associated publishing house.
+The wider scope also includes layout and cover design for books published by the organization's publishing house.

@@ -22,9 +22,7 @@ gallery:
     alt: Botticelli's Venus recreated using code
   - src: /images/photo_collage_poppies-01.jpg
     alt: Photo collage with poppies and vintage Mickey Mouse
-  - src: /images/glitch.JPG
-    alt: Digital collage combining a Rococo painting with a television glitch effect
-    wide: true
+
 ---
 
 Book covers, illustrated brand applications, and digital image-making experiments.

@@ -15,7 +15,6 @@ gallery:
     alt: Three Dippsterz snack packs
   - src: /images/tropical_dippsterz.jpg
     alt: Tropical Dippsterz packaging
-  - src: /images/011591023-1.jpeg
 
     
 ---
