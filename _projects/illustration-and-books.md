@@ -3,7 +3,7 @@ title: Illustrations & Book Covers
 order: 7
 category: Illustration & editorial
 description: Illustration, book design, and experiments in image-making.
-featured_image: /images/churchs_year.jpg
+featured_image: /images/photo_collage_poppies-01.jpg
 featured_alt: The Church's Year book design
 services: [Illustration, Book cover design, Digital collage]
 gallery:
