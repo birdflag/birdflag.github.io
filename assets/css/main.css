@@ -292,6 +292,14 @@ img {
   border-radius: 0;
 }
 
+/*reduce padding between logo and eyebrow and thumbnails only on desktop*/
+
+@media (min-width: 1121px) {
+  .folio {
+    padding-top: clamp(0.75rem, 1.5vw, 1.5rem);
+  }
+}
+
 /*
  * Cover is the minimum proportional scaling needed to fill each 4:3 tile.
  * There is no extra zoom, colored backing, rounding, or image overlay.
