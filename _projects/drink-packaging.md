@@ -1,6 +1,6 @@
 ---
 title: Drink Packaging
-order: 4
+order: 1
 category: Packaging
 description: Label and package design for wine, spirits, cocktails, and coffee.
 featured_image: /images/trio_final_limoncello.jpg

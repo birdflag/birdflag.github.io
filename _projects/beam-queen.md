@@ -1,6 +1,6 @@
 ---
 title: Beam Queen Apparel
-order: 6
+order: 3
 category: Design for apparel
 description:
 featured_image: /images/BQcresthoodie.jpg

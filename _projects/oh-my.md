@@ -1,6 +1,6 @@
 ---
 title: "OH MY! Elevated Food Co."
-order: 1
+order: 4
 category: Branding & packaging
 description: A complete brand identity and packaging for baking mixes and ready-to-eat dessert butter.
 featured_image: /images/Dessertbutterpouches_mockup.jpg

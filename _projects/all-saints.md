@@ -1,6 +1,6 @@
 ---
 title: All Saints Anglican Church
-order: 3
+order: 6
 category: Brand identity
 description: A visual identity for an established and growing church in Charlottesville, Virginia.
 featured_image: /images/ASAC_brochure.jpg
