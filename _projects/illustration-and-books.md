@@ -1,6 +1,6 @@
 ---
 title: Illustrations & Book Covers
-order: 6
+order: 7
 category: Illustration & editorial
 description: Illustration, book design, and experiments in image-making.
 featured_image: /images/churchs_year.jpg

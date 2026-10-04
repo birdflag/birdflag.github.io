@@ -1,6 +1,6 @@
 ---
 title: Logos & Brand Marks
-order: 5
+order: 2
 category: Brand identity
 description: Selected logos and the places they live.
 show_description: false

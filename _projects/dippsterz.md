@@ -1,6 +1,6 @@
 ---
 title: Funky Mello Dippsterz
-order: 2
+order: 6
 category: Packaging & illustration
 description: Custom illustrations and packaging for Dippsterz snack trays and display cases.
 featured_image: /images/dippsterz.png
