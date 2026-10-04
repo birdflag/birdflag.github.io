@@ -24,4 +24,4 @@ gallery:
     wide: true
 ---
 
-Illustration and packaging work for Funky Mello’s Dippsterz snack trays, including the tray cases used for display.
+Illustration and packaging work for Funky Mello’s Dippsterz snack trays and display boxes.

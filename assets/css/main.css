@@ -615,9 +615,9 @@ img {
   width: 64px;
   height: 64px;
   place-items: center;
-  border: 1px solid var(--accent);
+  border: 1px solid var(--ink);
   border-radius: 50%;
-  background: var(--accent);
+  background: transparent;
   color: var(--ink);
   font-size: 2rem;
   transition: background 180ms ease, border-color 180ms ease;
