@@ -296,7 +296,7 @@ img {
 
 @media (min-width: 1121px) {
   .folio {
-    padding-top: clamp(0.75rem, 1.5vw, 1.5rem);
+    padding-top: clamp(1.5rem, 2.5vw, 2.5rem);
   }
 }
 
