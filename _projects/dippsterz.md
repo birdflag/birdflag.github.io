@@ -21,7 +21,7 @@ gallery:
     alt: Dippsterz product packaging, additional view two
   - src: /images/011593011-1.jpeg
     alt: Dippsterz product packaging, additional view three
-    wide: true
+    
 ---
 
 Illustration and packaging work for Funky Mello’s Dippsterz snack trays and display boxes.
