@@ -16,11 +16,7 @@ gallery:
   - src: /images/tropical_dippsterz.jpg
     alt: Tropical Dippsterz packaging
   - src: /images/011591023-1.jpeg
-    alt: Dippsterz product packaging, additional view one
-  - src: /images/011593511-1.jpeg
-    alt: Dippsterz product packaging, additional view two
-  - src: /images/011593011-1.jpeg
-    alt: Dippsterz product packaging, additional view three
+
     
 ---
 
