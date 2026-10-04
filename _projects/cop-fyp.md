@@ -2,7 +2,7 @@
 title: City of Philadelphia 5 Year Plan
 order: 7
 category: Art direction and layout design
-description: A visual identity for an established and growing church in Charlottesville, Virginia.
+description: Direction and design for a City document that pulls together hundreds of stakeholders.
 featured_image: /images/fyp_front_and_2_spreads.jpg
 featured_alt: Fiscal plan front cover and spreads
 services: [Art direction, Layout design, Icon design, Data visualizations, Interactive PDF (digital) and Print products]
