@@ -11,10 +11,6 @@ gallery:
   - src: /images/Dessertbutterpouches_mockup.jpg
     alt: OH MY! dessert butter pouches
     wide: true
-  - src: /images/Brownie_mockupgreen.jpg
-    alt: OH MY! brownie mix packaging
-  - src: /images/cch_frontback_green.jpg
-    alt: OH MY! baking mix packaging, front and back
   - src: /images/ohmy_cookie_skillet.jpg
     alt: Cookie mix pouch beside a cookie baked in a skillet
   - src: /images/Brownie_mix_mockup.jpg
