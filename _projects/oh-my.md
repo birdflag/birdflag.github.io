@@ -11,6 +11,10 @@ gallery:
   - src: /images/Dessertbutterpouches_mockup.jpg
     alt: OH MY! dessert butter pouches
     wide: true
+  - src: /images/cookie_pouches.jpg
+    alt: Cookie butter pouch front and back
+  - src: /images/brownie_pouch.jpg
+    alt: Brownie butter pouch front and back
   - src: /images/ohmy_cookie_skillet.jpg
     alt: Cookie mix pouch beside a cookie baked in a skillet
   - src: /images/Brownie_mix_mockup.jpg
