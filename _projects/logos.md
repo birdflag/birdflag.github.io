@@ -20,7 +20,7 @@ gallery:
     alt: Blue Wheel Bicycles logo on a street sign
   - src: /images/freely-bottle.JPG
     alt: Freely vitamin bottle branding
-  - src: /images/spark_poster.png
+  - src: /images/spark_poster.jpg
     alt: Spark Beauty logo on a poster
   - src: /images/prismatic_liquors.png
     alt: Prismatic Distilling logo and package design
