@@ -18,8 +18,6 @@ gallery:
     alt: Shenandoah Joe logo on a T-shirt
   - src: /images/bwb_sign.jpg
     alt: Blue Wheel Bicycles logo on a street sign
-  - src: /images/freely-bottle.JPG
-    alt: Freely vitamin bottle branding
   - src: /images/spark_poster.jpg
     alt: Spark Beauty logo on a poster
   - src: /images/prismatic_liquors.png

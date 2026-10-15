@@ -3,7 +3,7 @@ layout: about
 title: "Hello, I’m Hannah."
 permalink: /about/
 description: Hannah Fogarty is a graphic designer in San Francisco, specializing in branding and packaging for consumable goods.
-photo: /images/headshot_2.jpg
+photo: /images/HS-UTG.jpg
 ---
 
 I’m a graphic designer in San Francisco, specializing in branding and packaging design for consumable goods.
