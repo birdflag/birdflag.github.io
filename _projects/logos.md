@@ -1,5 +1,5 @@
 ---
-title: Sine Beauty Brand and Packaging Design
+title: Sine Beauty
 order: 2
 category: Brand identity
 description: Sine Beauty brand and packaging.
@@ -22,4 +22,4 @@ gallery:
 
 ---
 
-A speculative brand and package design for an upscale body and face skincare line. An exploration of restrained palette with signature color bars to tie the products together.
+A speculative brand and package design for an upscale body and face skincare line. An exploration of a restrained palette with signature color bars that tie the products together.
