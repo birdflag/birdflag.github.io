@@ -1,28 +1,25 @@
 ---
-title: Logos & Brand Marks
+title: Sine Beauty Brand and Packaging Design
 order: 2
 category: Brand identity
-description: Selected logos and the places they live.
+description: Sine Beauty brand and packaging.
 show_description: false
 overview_title: "About this project"
 featured_image: /images/sine_serum.png
 featured_alt: Sine Beauty logo on cream and white boxes.
-services: [Logo design, Brand applications]
+services: [Brand Design, Package Design]
 gallery:
-  - src: /images/sine_serum.png
-    alt: Sine Serum branded packaging
+  - src: /images/sine_trio_final.jpg
+    alt: Sine beauty packaging tubes and bottle
     wide: true
-  - src: /images/sentien.JPG
-    alt: Sentien security firm logo
-  - src: /images/shenandoah_tshirt.jpg
-    alt: Shenandoah Joe logo on a T-shirt
-  - src: /images/bwb_sign.jpg
-    alt: Blue Wheel Bicycles logo on a street sign
-  - src: /images/spark_poster.jpg
-    alt: Spark Beauty logo on a poster
-  - src: /images/prismatic_liquors.png
-    alt: Prismatic Distilling logo and package design
+  - src: /images/sine_serum.png
+    alt: Sine beauty boxes
+  - src: /images/sine_quad.jpg
+    alt: Sine beauty packaging tubes and bottles
+  - src: /images/SINE_beauty.jpg
+    alt: Woman with SINE logo and colors
+
 
 ---
 
-A selection of logos and brand marks, client and personal projects.
+A speculative brand and package design for an upscale body and face skincare line. An exploration of restrained palette with signature color bars to tie the products together.
