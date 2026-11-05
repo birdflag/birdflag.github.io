@@ -3,7 +3,7 @@ title: Drink Packaging
 order: 5
 category: Packaging
 description: Label and package design for wine, spirits, cocktails, and coffee.
-featured_image: /images/trio_final_limoncello.jpg
+featured_image: /images/wine-sauv2.JPG
 featured_alt: Prismatic canned cocktail packaging designs
 services: [Label design, Package design]
 gallery:
