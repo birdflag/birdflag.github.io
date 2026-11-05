@@ -18,6 +18,7 @@ gallery:
     alt: Sine beauty packaging tubes and bottles
   - src: /images/SINE_editorial.jpg
     alt: Woman with SINE logo and colors
+    wide: true
 
 
 ---
