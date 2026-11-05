@@ -12,11 +12,11 @@ gallery:
   - src: /images/sine_trio_final.jpg
     alt: Sine beauty packaging tubes and bottle
     wide: true
-  - src: /images/sine_serum.png
-    alt: Sine beauty boxes
+  - src: /images/sine_eyecream.jpg
+    alt: Sine eye cream and box
   - src: /images/sine_quad.jpg
     alt: Sine beauty packaging tubes and bottles
-  - src: /images/SINE_beauty.jpg
+  - src: /images/SINE_editorial.jpg
     alt: Woman with SINE logo and colors
 
 
