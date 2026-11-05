@@ -6,7 +6,7 @@ description: Sine Beauty brand and packaging.
 show_description: false
 overview_title: "About this project"
 featured_image: /images/sine_eyecream.jpg
-featured_alt: Sine Beauty logo on cream and white boxes.
+featured_alt: Sine Beauty cream jar and box.
 services: [Brand Design, Package Design]
 gallery:
   - src: /images/sine_trio_final.jpg
