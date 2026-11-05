@@ -5,7 +5,7 @@ category: Brand identity
 description: Sine Beauty brand and packaging.
 show_description: false
 overview_title: "About this project"
-featured_image: /images/sine_serum.png
+featured_image: /images/sine_eyecream.jpg
 featured_alt: Sine Beauty logo on cream and white boxes.
 services: [Brand Design, Package Design]
 gallery:
