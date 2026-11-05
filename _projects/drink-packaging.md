@@ -5,7 +5,7 @@ category: Packaging
 description: Label and package design for wine, spirits, cocktails, and coffee.
 featured_image: /images/wine-sauv2.JPG
 featured_alt: Prismatic canned cocktail packaging designs
-services: [Label design, Package design]
+services: [Brand design, Package design]
 gallery:
   - src: /images/trio_final_limoncello.jpg
     alt: Prismatic canned cocktail packaging designs
