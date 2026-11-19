@@ -26,5 +26,3 @@ gallery:
 ---
 
 Book covers, illustrated brand applications, and digital image-making experiments.
-
-This collection brings together editorial design, apparel graphics, animation, and collage.
