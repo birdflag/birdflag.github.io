@@ -24,7 +24,6 @@ description: Hannah Fogarty is an independent graphic designer in San Francisco,
       {% for project in projects %}
         {% include project-card.html
           project=project
-          number=forloop.index
           eager=forloop.first
         %}
       {% endfor %}
