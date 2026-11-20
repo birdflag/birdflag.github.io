@@ -366,14 +366,6 @@ img {
   opacity: 0.92;
 }
 
-.work-card__index {
-  flex-shrink: 0;
-  color: var(--ink);
-  font-family: var(--serif);
-  font-size: 0.9rem;
-  font-style: italic;
-  font-variant-numeric: tabular-nums;
-}
 
 .empty-state {
   padding-block: 2rem;
